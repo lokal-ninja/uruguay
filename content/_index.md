@@ -1,0 +1,1 @@
+Uruguay, cuyo nombre oficial es República Oriental del Uruguay, es un país soberano de América del Sur, situado en la parte oriental del Cono Sur. Su capital y ciudad más poblada es Montevideo. (Wikipedia)
