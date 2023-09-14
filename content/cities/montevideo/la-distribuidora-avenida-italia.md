@@ -1,5 +1,5 @@
 ---
 title: "La Distribuidora"
-url: /montevideo/la-distribuidora/
+url: /montevideo/la-distribuidora-avenida-italia/
 shop: carnicero
 ---

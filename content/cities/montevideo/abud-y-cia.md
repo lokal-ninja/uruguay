@@ -1,5 +1,5 @@
 ---
 title: "Abud & Cia."
-url: /montevideo/abud-und-cia/
+url: /montevideo/abud-y-cia/
 shop: coche
 ---

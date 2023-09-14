@@ -1,5 +1,5 @@
 ---
 title: "Dufort - Solé & Lorenzo"
-url: /montevideo/dufort-sole-und-lorenzo/
+url: /montevideo/dufort-sole-y-lorenzo/
 shop: coche
 ---

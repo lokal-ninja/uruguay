@@ -1,5 +1,5 @@
 ---
 title: "Iberpark"
-url: /montevideo/iberpark/
+url: /montevideo/iberpark-avenida-18-de-julio/
 shop: comodidad
 ---

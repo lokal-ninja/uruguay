@@ -1,5 +1,5 @@
 ---
 title: "Leti"
-url: /montevideo/leti/
+url: /montevideo/leti-hector-gutierrez-ruiz/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curpae"
-url: /montevideo/curpae/
+url: /montevideo/curpae-paysandu/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devoto"
-url: /montevideo/devoto/
+url: /montevideo/devoto-avenida-8-de-octubre/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kinko"
-url: /montevideo/kinko/
+url: /montevideo/kinko-avenida-general-rivera/
 shop: comodidad
 ---

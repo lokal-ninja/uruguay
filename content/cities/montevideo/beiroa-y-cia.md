@@ -1,5 +1,5 @@
 ---
 title: "Beiroa & Cia."
-url: /montevideo/beiroa-und-cia/
+url: /montevideo/beiroa-y-cia/
 shop: general
 ---

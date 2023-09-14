@@ -1,5 +1,5 @@
 ---
 title: antigüedades
-url: /antigueedades/
+url: /antiguedades/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punto & Coma"
-url: /montevideo/punto-und-coma/
+url: /montevideo/punto-y-coma/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RASA"
-url: /montevideo/rasa/
+url: /montevideo/rasa-avenida-italia/
 shop: neumáticos
 ---

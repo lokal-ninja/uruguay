@@ -1,5 +1,5 @@
 ---
 title: "Florida"
-url: /montevideo/florida/
+url: /montevideo/florida-obligado/
 shop: óptico
 ---

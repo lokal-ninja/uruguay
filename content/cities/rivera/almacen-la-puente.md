@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
-url: /rivera/almacen/
+url: /rivera/almacen-la-puente/
 shop: general
 ---

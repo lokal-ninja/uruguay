@@ -1,5 +1,5 @@
 ---
 title: "Fablet & Berton Importadores"
-url: /montevideo/fablet-und-berton-importadores/
+url: /montevideo/fablet-y-berton-importadores/
 shop: radiotecnia
 ---

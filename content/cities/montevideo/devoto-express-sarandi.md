@@ -1,5 +1,5 @@
 ---
 title: "Devoto Express"
-url: /montevideo/devoto-express/
+url: /montevideo/devoto-express-sarandi/
 shop: comodidad
 ---

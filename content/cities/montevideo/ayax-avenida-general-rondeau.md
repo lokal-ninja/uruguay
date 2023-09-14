@@ -1,5 +1,5 @@
 ---
 title: "Ayax"
-url: /montevideo/ayax/
+url: /montevideo/ayax-avenida-general-rondeau/
 shop: coche
 ---

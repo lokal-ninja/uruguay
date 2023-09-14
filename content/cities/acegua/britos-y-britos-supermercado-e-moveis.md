@@ -1,5 +1,5 @@
 ---
 title: "Britos & Britos Supermercado e Móveis"
-url: /acegua/britos-und-britos-supermercado-e-moveis/
+url: /acegua/britos-y-britos-supermercado-e-moveis/
 shop: supermercado
 ---

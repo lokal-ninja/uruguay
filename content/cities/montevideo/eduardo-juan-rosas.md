@@ -1,5 +1,5 @@
 ---
 title: "Eduardo"
-url: /montevideo/eduardo/
+url: /montevideo/eduardo-juan-rosas/
 shop: comodidad
 ---

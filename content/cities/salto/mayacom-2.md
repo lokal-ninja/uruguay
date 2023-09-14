@@ -1,5 +1,5 @@
 ---
 title: "Mayacom"
-url: /salto/mayacom/
+url: /salto/mayacom-2/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Técnica&Arte"
-url: /montevideo/tecnicaundarte/
+url: /montevideo/tecnicayarte/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castro"
-url: /montevideo/castro/
+url: /montevideo/castro-avenida-general-eugenio-garzon/
 shop: general
 ---

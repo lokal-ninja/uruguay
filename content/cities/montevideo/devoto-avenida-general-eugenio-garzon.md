@@ -1,5 +1,5 @@
 ---
 title: "Devoto"
-url: /montevideo/devoto/
+url: /montevideo/devoto-avenida-general-eugenio-garzon/
 shop: supermercado
 ---

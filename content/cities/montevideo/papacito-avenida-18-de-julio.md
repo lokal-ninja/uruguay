@@ -1,5 +1,5 @@
 ---
 title: "Papacito"
-url: /montevideo/papacito/
+url: /montevideo/papacito-avenida-18-de-julio/
 shop: libros
 ---

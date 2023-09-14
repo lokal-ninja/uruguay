@@ -1,5 +1,5 @@
 ---
 title: "Lavadero"
-url: /montevideo/lavadero/
+url: /montevideo/lavadero-andes/
 shop: lavandería
 ---

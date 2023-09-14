@@ -1,5 +1,5 @@
 ---
 title: "Bagno & company Outlet"
-url: /montevideo/bagno-und-company-outlet/
+url: /montevideo/bagno-y-company-outlet/
 shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maria"
-url: /montevideo/maria/
+url: /montevideo/maria-rivadavia/
 shop: comodidad
 ---

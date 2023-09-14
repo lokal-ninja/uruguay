@@ -1,5 +1,5 @@
 ---
 title: "Frigo"
-url: /montevideo/frigo/
+url: /montevideo/frigo-camino-ariel/
 shop: supermercado
 ---

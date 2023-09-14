@@ -1,5 +1,5 @@
 ---
 title: "Disco"
-url: /montevideo/disco/
+url: /montevideo/disco-avenida-doctor-francisco-soca/
 shop: supermercado
 ---

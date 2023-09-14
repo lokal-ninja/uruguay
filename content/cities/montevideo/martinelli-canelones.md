@@ -1,5 +1,5 @@
 ---
 title: "Martinelli"
-url: /montevideo/martinelli/
+url: /montevideo/martinelli-canelones/
 shop: directores de funerarias
 ---

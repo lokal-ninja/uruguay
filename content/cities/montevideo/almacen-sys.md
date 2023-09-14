@@ -1,5 +1,5 @@
 ---
 title: "Almacén S&S"
-url: /montevideo/almacen-sunds/
+url: /montevideo/almacen-sys/
 shop: comodidad
 ---

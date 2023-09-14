@@ -1,5 +1,5 @@
 ---
 title: "Comag"
-url: /montevideo/comag/
+url: /montevideo/comag-avenida-18-de-julio/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Malmö"
-url: /montevideo/supermercado-malmoe/
+url: /montevideo/supermercado-malmo/
 shop: comodidad
 ---

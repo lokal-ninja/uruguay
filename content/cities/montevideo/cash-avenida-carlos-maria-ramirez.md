@@ -1,5 +1,5 @@
 ---
 title: "Cash"
-url: /montevideo/cash/
+url: /montevideo/cash-avenida-carlos-maria-ramirez/
 shop: prestamista
 ---

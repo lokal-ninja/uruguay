@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
-url: /montevideo/parabrisas/
+url: /montevideo/parabrisas-miguelete/
 shop: reparación de automóviles
 ---

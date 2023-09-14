@@ -1,5 +1,5 @@
 ---
 title: "Kärcher Center"
-url: /montevideo/kaercher-center/
+url: /montevideo/karcher-center/
 shop: hardware
 ---

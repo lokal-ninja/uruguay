@@ -1,5 +1,5 @@
 ---
 title: "Javier"
-url: /montevideo/javier/
+url: /montevideo/javier-los-nogales/
 shop: comodidad
 ---

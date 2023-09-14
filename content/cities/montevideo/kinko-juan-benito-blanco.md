@@ -1,5 +1,5 @@
 ---
 title: "Kinko"
-url: /montevideo/kinko/
+url: /montevideo/kinko-juan-benito-blanco/
 shop: comodidad
 ---

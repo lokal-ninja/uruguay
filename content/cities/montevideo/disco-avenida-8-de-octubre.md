@@ -1,5 +1,5 @@
 ---
 title: "Disco"
-url: /montevideo/disco/
+url: /montevideo/disco-avenida-8-de-octubre/
 shop: supermercado
 ---

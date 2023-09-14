@@ -1,5 +1,5 @@
 ---
 title: "Ta-Ta"
-url: /montevideo/ta-ta/
+url: /montevideo/ta-ta-jose-l-terra/
 shop: supermercado
 ---

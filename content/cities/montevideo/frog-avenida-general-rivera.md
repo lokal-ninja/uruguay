@@ -1,5 +1,5 @@
 ---
 title: "Frog"
-url: /montevideo/frog/
+url: /montevideo/frog-avenida-general-rivera/
 shop: supermercado
 ---

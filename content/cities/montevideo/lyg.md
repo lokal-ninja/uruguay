@@ -1,5 +1,5 @@
 ---
 title: "L&G"
-url: /montevideo/lundg/
+url: /montevideo/lyg/
 shop: comodidad
 ---

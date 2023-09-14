@@ -1,5 +1,5 @@
 ---
 title: "Dim@r soluciones"
-url: /colonia-del-sacramento/dimanr-soluciones/
+url: /colonia-del-sacramento/dimenr-soluciones/
 shop: electrónica
 ---

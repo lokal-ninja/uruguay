@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
-url: /cerro-san-eugenio/almacen/
+url: /cerro-san-eugenio/almacen-argentina/
 shop: comodidad
 ---

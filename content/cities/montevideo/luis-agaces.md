@@ -1,5 +1,5 @@
 ---
 title: "Luis"
-url: /montevideo/luis/
+url: /montevideo/luis-agaces/
 shop: comodidad
 ---

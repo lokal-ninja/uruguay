@@ -1,5 +1,5 @@
 ---
 title: "Portisur"
-url: /montevideo/portisur/
+url: /montevideo/portisur-orinoco/
 shop: alimentos congelados
 ---

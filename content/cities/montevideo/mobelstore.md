@@ -1,5 +1,5 @@
 ---
 title: "Möbelstore"
-url: /montevideo/moebelstore/
+url: /montevideo/mobelstore/
 shop: muebles
 ---

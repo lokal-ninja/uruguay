@@ -1,5 +1,5 @@
 ---
 title: "Estela Jinchuk"
-url: /montevideo/estela-jinchuk/
+url: /montevideo/estela-jinchuk-avenida-sarmiento/
 shop: óptico
 ---
