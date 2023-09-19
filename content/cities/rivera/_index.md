@@ -1,6 +1,6 @@
 ---
 title: Rivera
 url: /rivera/
-latitude: -30.906
+latitude: -30.908
 longitude: -55.514
 ---
