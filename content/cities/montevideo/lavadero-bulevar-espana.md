@@ -1,5 +1,5 @@
 ---
 title: "Lavadero"
-url: /montevideo/lavadero-avenida-millan/
+url: /montevideo/lavadero-bulevar-espana/
 shop: lavandería
 ---
