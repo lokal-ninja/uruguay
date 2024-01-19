@@ -1,6 +1,6 @@
 ---
 title: Durazno
 url: /durazno/
-latitude: -33.387
+latitude: -33.386
 longitude: -56.525
 ---
