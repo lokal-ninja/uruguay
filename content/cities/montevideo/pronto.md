@@ -1,5 +1,5 @@
 ---
-title: "Pronto!"
+title: "Pronto"
 url: /montevideo/pronto/
 shop: prestamista
 ---
