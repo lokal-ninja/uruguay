@@ -1,5 +1,5 @@
 ---
-title: "Laika"
+title: "laika"
 url: /montevideo/laika/
 shop: mascotas
 ---
