@@ -1,5 +1,5 @@
 ---
 title: "Natal"
 url: /montevideo/natal/
-shop: perfumería
+shop: farmacia
 ---
