@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
-url: /rivera/almacen-santiago-gadea-2/
+url: /rivera/almacen-ignacio-barrios/
 shop: general
 ---
