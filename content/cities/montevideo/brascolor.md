@@ -1,5 +1,5 @@
 ---
 title: "Brascolor"
 url: /montevideo/brascolor/
-shop: pintura
+shop: Farben
 ---

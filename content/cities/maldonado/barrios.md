@@ -1,5 +1,5 @@
 ---
 title: "Barrios"
 url: /maldonado/barrios/
-shop: supermercado
+shop: Supermarkt
 ---

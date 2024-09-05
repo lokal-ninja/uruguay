@@ -1,5 +1,5 @@
 ---
 title: "Todomúsica"
 url: /montevideo/todomusica/
-shop: música
+shop: Musik
 ---

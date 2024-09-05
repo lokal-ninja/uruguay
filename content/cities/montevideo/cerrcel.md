@@ -1,5 +1,5 @@
 ---
 title: "CERRCEL"
 url: /montevideo/cerrcel/
-shop: teléfono móvil
+shop: Handy
 ---

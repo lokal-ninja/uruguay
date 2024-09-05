@@ -1,5 +1,5 @@
 ---
 title: "Maika"
 url: /montevideo/maika/
-shop: peluquería
+shop: Friseur
 ---

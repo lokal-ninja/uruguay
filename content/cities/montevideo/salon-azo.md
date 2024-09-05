@@ -1,5 +1,5 @@
 ---
 title: "Salón Azo"
 url: /montevideo/salon-azo/
-shop: quiosco
+shop: Kiosk
 ---

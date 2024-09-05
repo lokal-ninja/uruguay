@@ -1,5 +1,5 @@
 ---
 title: "Elba"
 url: /montevideo/elba/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banifox"
 url: /montevideo/banifox/
-shop: ordenador
+shop: Computer
 ---

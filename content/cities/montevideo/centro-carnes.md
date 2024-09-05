@@ -1,5 +1,5 @@
 ---
 title: "Centro Carnes"
 url: /montevideo/centro-carnes/
-shop: carnicero
+shop: Metzgerei
 ---

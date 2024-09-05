@@ -1,5 +1,5 @@
 ---
 title: "Ferromania"
 url: /montevideo/ferromania/
-shop: hardware
+shop: Eisenwaren
 ---

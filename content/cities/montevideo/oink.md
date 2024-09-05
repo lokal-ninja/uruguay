@@ -1,5 +1,5 @@
 ---
 title: "Oink!"
 url: /montevideo/oink/
-shop: ropa
+shop: Kleidung
 ---

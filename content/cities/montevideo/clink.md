@@ -1,5 +1,5 @@
 ---
 title: "Clink"
 url: /montevideo/clink/
-shop: general
+shop: Allgemein
 ---

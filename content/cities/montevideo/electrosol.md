@@ -1,5 +1,5 @@
 ---
 title: "Electrosol"
 url: /montevideo/electrosol/
-shop: eléctrico
+shop: Elektrisch
 ---

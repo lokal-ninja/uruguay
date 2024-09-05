@@ -1,5 +1,5 @@
 ---
 title: "Marino"
 url: /montevideo/marino/
-shop: general
+shop: Allgemein
 ---

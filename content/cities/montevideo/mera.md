@@ -1,5 +1,5 @@
 ---
 title: "Mera"
 url: /montevideo/mera/
-shop: óptico
+shop: Optiker
 ---

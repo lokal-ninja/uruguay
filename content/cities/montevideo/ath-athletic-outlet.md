@@ -1,5 +1,5 @@
 ---
 title: "ATH - Athletic Outlet"
 url: /montevideo/ath-athletic-outlet/
-shop: deportes
+shop: Sport
 ---

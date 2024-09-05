@@ -1,5 +1,5 @@
 ---
 title: "Marquitos"
 url: /montevideo/marquitos/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frigo"
 url: /montevideo/frigo/
-shop: supermercado
+shop: Supermarkt
 ---

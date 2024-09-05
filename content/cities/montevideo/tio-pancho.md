@@ -1,5 +1,5 @@
 ---
 title: "Tío Pancho"
 url: /montevideo/tio-pancho/
-shop: comodidad
+shop: Lebensmittel
 ---

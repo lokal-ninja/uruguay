@@ -1,5 +1,5 @@
 ---
 title: "Papacito"
 url: /montevideo/papacito/
-shop: libros
+shop: Bücher
 ---

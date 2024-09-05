@@ -1,5 +1,5 @@
 ---
 title: "ZuniMercado"
 url: /salto/zunimercado/
-shop: supermercado
+shop: Supermarkt
 ---

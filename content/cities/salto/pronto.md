@@ -1,5 +1,5 @@
 ---
 title: "Pronto!"
 url: /salto/pronto/
-shop: prestamista
+shop: Leiher
 ---

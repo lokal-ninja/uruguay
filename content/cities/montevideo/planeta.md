@@ -1,5 +1,5 @@
 ---
 title: "Planeta"
 url: /montevideo/planeta/
-shop: supermercado
+shop: Supermarkt
 ---

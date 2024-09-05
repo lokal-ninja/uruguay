@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /durazno/panaderia/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zenex"
 url: /montevideo/zenex/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altamira"
 url: /montevideo/altamira/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

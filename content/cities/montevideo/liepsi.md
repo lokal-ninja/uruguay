@@ -1,5 +1,5 @@
 ---
 title: "Liepsi"
 url: /montevideo/liepsi/
-shop: neumáticos
+shop: Reifen
 ---

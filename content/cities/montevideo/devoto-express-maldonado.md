@@ -1,5 +1,5 @@
 ---
 title: "Devoto Express"
 url: /montevideo/devoto-express-maldonado/
-shop: comodidad
+shop: Lebensmittel
 ---

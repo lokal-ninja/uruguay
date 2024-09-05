@@ -1,5 +1,5 @@
 ---
 title: "Verdyfresh"
 url: /montevideo/verdyfresh/
-shop: frutería
+shop: Gemüse & Obst
 ---

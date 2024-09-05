@@ -1,5 +1,5 @@
 ---
 title: "Piccolina"
 url: /montevideo/piccolina/
-shop: comodidad
+shop: Lebensmittel
 ---

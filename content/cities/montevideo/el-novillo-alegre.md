@@ -1,5 +1,5 @@
 ---
 title: "El Novillo Alegre"
 url: /montevideo/el-novillo-alegre/
-shop: carnicero
+shop: Metzgerei
 ---

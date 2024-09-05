@@ -1,5 +1,5 @@
 ---
 title: "Boomerang"
 url: /montevideo/boomerang/
-shop: ropa
+shop: Kleidung
 ---

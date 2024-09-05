@@ -1,5 +1,5 @@
 ---
 title: "Vivai"
 url: /montevideo/vivai/
-shop: muebles
+shop: Möbel
 ---

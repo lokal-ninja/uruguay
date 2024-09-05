@@ -1,5 +1,5 @@
 ---
 title: "Boutique Lo de Paula"
 url: /rio-branco/boutique-lo-de-paula/
-shop: ropa
+shop: Kleidung
 ---

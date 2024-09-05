@@ -1,5 +1,5 @@
 ---
 title: "Peñarol"
 url: /montevideo/penarol/
-shop: joyería
+shop: Schmuck
 ---

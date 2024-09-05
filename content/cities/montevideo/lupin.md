@@ -1,5 +1,5 @@
 ---
 title: "Lupin"
 url: /montevideo/lupin/
-shop: comodidad
+shop: Lebensmittel
 ---

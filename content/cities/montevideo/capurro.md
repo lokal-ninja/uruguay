@@ -1,5 +1,5 @@
 ---
 title: "Capurro"
 url: /montevideo/capurro/
-shop: quiosco
+shop: Kiosk
 ---

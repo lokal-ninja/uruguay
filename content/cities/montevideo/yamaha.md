@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /montevideo/yamaha/
-shop: motocicleta
+shop: Motorrad
 ---

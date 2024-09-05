@@ -1,5 +1,5 @@
 ---
 title: "CuatroAses Outlet"
 url: /montevideo/cuatroases-outlet/
-shop: ropa
+shop: Kleidung
 ---

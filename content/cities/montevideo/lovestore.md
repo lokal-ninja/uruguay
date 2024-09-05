@@ -1,5 +1,5 @@
 ---
 title: "Lovestore"
 url: /montevideo/lovestore/
-shop: erótico
+shop: Erotik
 ---

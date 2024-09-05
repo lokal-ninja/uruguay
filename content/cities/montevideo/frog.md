@@ -1,5 +1,5 @@
 ---
 title: "Frog"
 url: /montevideo/frog/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PM Consultores Ltda."
 url: /montevideo/pm-consultores-ltda/
-shop: ordenador
+shop: Computer
 ---

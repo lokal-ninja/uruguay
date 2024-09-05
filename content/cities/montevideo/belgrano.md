@@ -1,5 +1,5 @@
 ---
 title: "Belgrano"
 url: /montevideo/belgrano/
-shop: carnicero
+shop: Metzgerei
 ---

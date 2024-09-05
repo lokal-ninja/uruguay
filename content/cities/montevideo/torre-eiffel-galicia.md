@@ -1,5 +1,5 @@
 ---
 title: "Torre Eiffel"
 url: /montevideo/torre-eiffel-galicia/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /montevideo/columbia/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daniel Cassin"
 url: /salto/daniel-cassin/
-shop: ropa
+shop: Kleidung
 ---

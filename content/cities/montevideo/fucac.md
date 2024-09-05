@@ -1,5 +1,5 @@
 ---
 title: "FUCAC"
 url: /montevideo/fucac/
-shop: prestamista
+shop: Leiher
 ---

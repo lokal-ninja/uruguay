@@ -1,5 +1,5 @@
 ---
 title: "RASA"
 url: /montevideo/rasa/
-shop: neumáticos
+shop: Reifen
 ---

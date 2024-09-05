@@ -1,5 +1,5 @@
 ---
 title: "Micro Macro"
 url: /montevideo/micro-macro-francisco-canaro/
-shop: comodidad
+shop: Lebensmittel
 ---

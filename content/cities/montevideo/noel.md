@@ -1,5 +1,5 @@
 ---
 title: "Noel"
 url: /montevideo/noel/
-shop: peluquería
+shop: Friseur
 ---

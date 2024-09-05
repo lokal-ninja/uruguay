@@ -1,5 +1,5 @@
 ---
 title: "febo"
 url: /montevideo/febo/
-shop: ordenador
+shop: Computer
 ---

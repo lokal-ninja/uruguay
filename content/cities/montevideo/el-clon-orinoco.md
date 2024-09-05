@@ -1,5 +1,5 @@
 ---
 title: "El Clon"
 url: /montevideo/el-clon-orinoco/
-shop: comodidad
+shop: Lebensmittel
 ---

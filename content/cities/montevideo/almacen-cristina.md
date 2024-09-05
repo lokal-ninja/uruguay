@@ -1,5 +1,5 @@
 ---
 title: "Almacén Cristina"
 url: /montevideo/almacen-cristina/
-shop: comodidad
+shop: Lebensmittel
 ---

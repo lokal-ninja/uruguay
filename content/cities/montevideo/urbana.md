@@ -1,5 +1,5 @@
 ---
 title: "Urbana"
 url: /montevideo/urbana/
-shop: panadería
+shop: Bäckerei
 ---

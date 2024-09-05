@@ -1,5 +1,5 @@
 ---
 title: "Prolesa"
 url: /cardona/prolesa/
-shop: general
+shop: Allgemein
 ---

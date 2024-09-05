@@ -1,5 +1,5 @@
 ---
 title: "Alvear"
 url: /montevideo/alvear/
-shop: alcohol
+shop: Spirituosen
 ---

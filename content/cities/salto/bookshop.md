@@ -1,5 +1,5 @@
 ---
 title: "BookShop"
 url: /salto/bookshop/
-shop: libros
+shop: Bücher
 ---

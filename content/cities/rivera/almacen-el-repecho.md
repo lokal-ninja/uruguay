@@ -1,5 +1,5 @@
 ---
 title: "Almacén El Repecho"
 url: /rivera/almacen-el-repecho/
-shop: general
+shop: Allgemein
 ---

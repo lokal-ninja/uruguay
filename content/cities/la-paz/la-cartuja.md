@@ -1,5 +1,5 @@
 ---
 title: "La Cartuja"
 url: /la-paz/la-cartuja/
-shop: confitería
+shop: Süßwaren
 ---

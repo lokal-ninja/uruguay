@@ -1,5 +1,5 @@
 ---
 title: "Santino"
 url: /salto/santino/
-shop: ropa
+shop: Kleidung
 ---

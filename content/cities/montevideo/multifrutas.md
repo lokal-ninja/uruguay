@@ -1,5 +1,5 @@
 ---
 title: "Multifrutas"
 url: /montevideo/multifrutas/
-shop: frutería
+shop: Gemüse & Obst
 ---

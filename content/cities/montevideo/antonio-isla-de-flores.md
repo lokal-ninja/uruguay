@@ -1,5 +1,5 @@
 ---
 title: "Antonio"
 url: /montevideo/antonio-isla-de-flores/
-shop: comodidad
+shop: Lebensmittel
 ---

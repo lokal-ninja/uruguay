@@ -1,5 +1,5 @@
 ---
 title: "DFA Américas"
 url: /rio-branco/dfa-americas/
-shop: general
+shop: Allgemein
 ---

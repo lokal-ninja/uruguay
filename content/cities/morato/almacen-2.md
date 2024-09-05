@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /morato/almacen-2/
-shop: comodidad
+shop: Lebensmittel
 ---

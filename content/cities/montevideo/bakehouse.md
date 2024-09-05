@@ -1,5 +1,5 @@
 ---
 title: "Bakehouse"
 url: /montevideo/bakehouse/
-shop: panadería
+shop: Bäckerei
 ---

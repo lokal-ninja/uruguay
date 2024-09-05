@@ -1,5 +1,5 @@
 ---
 title: "Papishop"
 url: /montevideo/papishop/
-shop: comodidad
+shop: Lebensmittel
 ---

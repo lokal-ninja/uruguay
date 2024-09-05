@@ -1,5 +1,5 @@
 ---
 title: "Landis"
 url: /montevideo/landis/
-shop: zapatos
+shop: Schuhe
 ---

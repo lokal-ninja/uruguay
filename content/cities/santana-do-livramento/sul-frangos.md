@@ -1,5 +1,5 @@
 ---
 title: "Sul Frangos"
 url: /santana-do-livramento/sul-frangos/
-shop: supermercado
+shop: Supermarkt
 ---

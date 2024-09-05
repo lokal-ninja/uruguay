@@ -1,5 +1,5 @@
 ---
 title: "FIVISA"
 url: /maldonado/fivisa/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vimar"
 url: /montevideo/vimar/
-shop: agua
+shop: Wasser
 ---

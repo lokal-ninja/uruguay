@@ -1,5 +1,5 @@
 ---
 title: "Stud"
 url: /montevideo/stud/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zenit"
 url: /montevideo/zenit/
-shop: general
+shop: Allgemein
 ---

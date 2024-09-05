@@ -1,5 +1,5 @@
 ---
 title: "Better Life"
 url: /montevideo/better-life-ituzaingo/
-shop: lavandería
+shop: Wäscherei
 ---

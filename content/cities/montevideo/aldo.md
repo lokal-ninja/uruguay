@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /montevideo/aldo/
-shop: comodidad
+shop: Lebensmittel
 ---

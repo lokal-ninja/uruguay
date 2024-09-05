@@ -1,5 +1,5 @@
 ---
 title: "Vintag"
 url: /maldonado/vintag/
-shop: ropa
+shop: Kleidung
 ---

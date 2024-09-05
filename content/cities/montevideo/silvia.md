@@ -1,5 +1,5 @@
 ---
 title: "Silvia"
 url: /montevideo/silvia/
-shop: comodidad
+shop: Lebensmittel
 ---

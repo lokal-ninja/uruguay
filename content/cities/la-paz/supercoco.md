@@ -1,5 +1,5 @@
 ---
 title: "SuperCoco"
 url: /la-paz/supercoco/
-shop: supermercado
+shop: Supermarkt
 ---

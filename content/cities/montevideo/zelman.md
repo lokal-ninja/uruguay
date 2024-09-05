@@ -1,5 +1,5 @@
 ---
 title: "Zelman"
 url: /montevideo/zelman/
-shop: ropa
+shop: Kleidung
 ---

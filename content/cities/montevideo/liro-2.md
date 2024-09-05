@@ -1,5 +1,5 @@
 ---
 title: "Liro 2"
 url: /montevideo/liro-2/
-shop: comodidad
+shop: Lebensmittel
 ---

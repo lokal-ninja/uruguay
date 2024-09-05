@@ -1,5 +1,5 @@
 ---
 title: "MundoCanino"
 url: /montevideo/mundocanino/
-shop: mascotas
+shop: Tiere
 ---

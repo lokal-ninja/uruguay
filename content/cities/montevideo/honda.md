@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /montevideo/honda/
-shop: motocicleta
+shop: Motorrad
 ---

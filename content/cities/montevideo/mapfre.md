@@ -1,5 +1,5 @@
 ---
 title: "MAPFRE"
 url: /montevideo/mapfre/
-shop: coche
+shop: Autohaus
 ---

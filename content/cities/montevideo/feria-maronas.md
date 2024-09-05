@@ -1,5 +1,5 @@
 ---
 title: "Feria Maroñas"
 url: /montevideo/feria-maronas/
-shop: comodidad
+shop: Lebensmittel
 ---

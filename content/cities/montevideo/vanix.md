@@ -1,5 +1,5 @@
 ---
 title: "Vanix"
 url: /montevideo/vanix/
-shop: comodidad
+shop: Lebensmittel
 ---

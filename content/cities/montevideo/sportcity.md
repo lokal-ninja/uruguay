@@ -1,5 +1,5 @@
 ---
 title: "SportCity"
 url: /montevideo/sportcity/
-shop: deportes
+shop: Sport
 ---

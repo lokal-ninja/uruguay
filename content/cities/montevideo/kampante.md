@@ -1,5 +1,5 @@
 ---
 title: "Kampante"
 url: /montevideo/kampante/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferru"
 url: /montevideo/ferru/
-shop: comodidad
+shop: Lebensmittel
 ---

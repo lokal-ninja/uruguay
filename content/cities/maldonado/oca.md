@@ -1,5 +1,5 @@
 ---
 title: "Oca"
 url: /maldonado/oca/
-shop: prestamista
+shop: Leiher
 ---

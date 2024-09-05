@@ -1,5 +1,5 @@
 ---
 title: "Vilma"
 url: /montevideo/vilma/
-shop: comodidad
+shop: Lebensmittel
 ---

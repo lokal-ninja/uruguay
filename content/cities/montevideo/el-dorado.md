@@ -1,5 +1,5 @@
 ---
 title: "El Dorado"
 url: /montevideo/el-dorado/
-shop: supermercado
+shop: Supermarkt
 ---

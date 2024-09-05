@@ -1,5 +1,5 @@
 ---
 title: "Futuro"
 url: /montevideo/futuro/
-shop: comodidad
+shop: Lebensmittel
 ---

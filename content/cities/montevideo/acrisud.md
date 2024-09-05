@@ -1,5 +1,5 @@
 ---
 title: "Acrisud"
 url: /montevideo/acrisud/
-shop: comercio
+shop: Baustoffe
 ---

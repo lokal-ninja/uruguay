@@ -1,5 +1,5 @@
 ---
 title: "Kinko"
 url: /montevideo/kinko-avenida-ingeniero-luis-p-ponce/
-shop: comodidad
+shop: Lebensmittel
 ---

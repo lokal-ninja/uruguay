@@ -1,5 +1,5 @@
 ---
 title: "La Tunita II"
 url: /montevideo/la-tunita-ii/
-shop: comodidad
+shop: Lebensmittel
 ---

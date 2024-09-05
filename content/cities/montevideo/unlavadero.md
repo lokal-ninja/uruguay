@@ -1,5 +1,5 @@
 ---
 title: "UnLavadero"
 url: /montevideo/unlavadero/
-shop: lavandería
+shop: Wäscherei
 ---

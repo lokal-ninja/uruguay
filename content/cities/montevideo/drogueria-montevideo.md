@@ -1,5 +1,5 @@
 ---
 title: "Droguería Montevideo"
 url: /montevideo/drogueria-montevideo/
-shop: farmacia
+shop: Drogerie
 ---

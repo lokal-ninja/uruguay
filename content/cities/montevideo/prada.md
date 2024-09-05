@@ -1,5 +1,5 @@
 ---
 title: "Prada"
 url: /montevideo/prada/
-shop: óptico
+shop: Optiker
 ---

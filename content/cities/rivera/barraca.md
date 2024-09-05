@@ -1,5 +1,5 @@
 ---
 title: "Barraca"
 url: /rivera/barraca/
-shop: hardware
+shop: Eisenwaren
 ---

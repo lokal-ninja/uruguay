@@ -1,5 +1,5 @@
 ---
 title: "Sadar"
 url: /montevideo/sadar/
-shop: coche
+shop: Autohaus
 ---

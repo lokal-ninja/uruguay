@@ -1,5 +1,5 @@
 ---
 title: "Sardy"
 url: /montevideo/sardy/
-shop: comodidad
+shop: Lebensmittel
 ---

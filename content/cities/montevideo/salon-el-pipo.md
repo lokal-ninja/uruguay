@@ -1,5 +1,5 @@
 ---
 title: "Salon El Pipo"
 url: /montevideo/salon-el-pipo/
-shop: quiosco
+shop: Kiosk
 ---

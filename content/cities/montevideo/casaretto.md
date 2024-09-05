@@ -1,5 +1,5 @@
 ---
 title: "Casaretto"
 url: /montevideo/casaretto/
-shop: hardware
+shop: Eisenwaren
 ---

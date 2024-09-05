@@ -1,5 +1,5 @@
 ---
 title: "Once Outlet"
 url: /maldonado/once-outlet/
-shop: zapatos
+shop: Schuhe
 ---

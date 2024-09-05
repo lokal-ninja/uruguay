@@ -1,5 +1,5 @@
 ---
 title: "Optilent"
 url: /montevideo/optilent/
-shop: óptico
+shop: Optiker
 ---

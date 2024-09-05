@@ -1,5 +1,5 @@
 ---
 title: "Petinsa"
 url: /montevideo/petinsa/
-shop: neumáticos
+shop: Reifen
 ---

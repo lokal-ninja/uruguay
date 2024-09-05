@@ -1,5 +1,5 @@
 ---
 title: "Pinturex"
 url: /montevideo/pinturex/
-shop: hardware
+shop: Eisenwaren
 ---

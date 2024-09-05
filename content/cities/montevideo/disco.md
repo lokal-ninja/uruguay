@@ -1,5 +1,5 @@
 ---
 title: "Disco"
 url: /montevideo/disco/
-shop: supermercado
+shop: Supermarkt
 ---

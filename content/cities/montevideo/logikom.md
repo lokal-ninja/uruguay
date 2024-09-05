@@ -1,5 +1,5 @@
 ---
 title: "LogiKom"
 url: /montevideo/logikom/
-shop: ordenador
+shop: Computer
 ---

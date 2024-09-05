@@ -1,5 +1,5 @@
 ---
 title: "Portisur"
 url: /montevideo/portisur/
-shop: supermercado
+shop: Supermarkt
 ---

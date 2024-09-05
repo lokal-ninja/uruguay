@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora La Paz"
 url: /la-paz/distribuidora-la-paz/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disco Legrand"
 url: /montevideo/disco-legrand/
-shop: supermercado
+shop: Supermarkt
 ---

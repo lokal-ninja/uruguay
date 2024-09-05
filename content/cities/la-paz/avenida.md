@@ -1,5 +1,5 @@
 ---
 title: "Avenida"
 url: /la-paz/avenida/
-shop: panadería
+shop: Bäckerei
 ---

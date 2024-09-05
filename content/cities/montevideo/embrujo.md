@@ -1,5 +1,5 @@
 ---
 title: "Embrujo"
 url: /montevideo/embrujo/
-shop: comodidad
+shop: Lebensmittel
 ---

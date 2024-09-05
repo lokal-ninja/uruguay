@@ -1,5 +1,5 @@
 ---
 title: "Mayo"
 url: /montevideo/mayo/
-shop: comodidad
+shop: Lebensmittel
 ---

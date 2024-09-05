@@ -1,5 +1,5 @@
 ---
 title: "Carnes Colón"
 url: /montevideo/carnes-colon/
-shop: carnicero
+shop: Metzgerei
 ---

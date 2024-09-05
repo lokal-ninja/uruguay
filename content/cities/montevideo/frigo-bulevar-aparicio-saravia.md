@@ -1,5 +1,5 @@
 ---
 title: "Frigo"
 url: /montevideo/frigo-bulevar-aparicio-saravia/
-shop: supermercado
+shop: Supermarkt
 ---

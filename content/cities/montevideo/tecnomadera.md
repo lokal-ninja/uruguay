@@ -1,5 +1,5 @@
 ---
 title: "Tecnomadera"
 url: /montevideo/tecnomadera/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carper"
 url: /montevideo/carper/
-shop: coche
+shop: Autohaus
 ---

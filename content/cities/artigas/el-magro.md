@@ -1,5 +1,5 @@
 ---
 title: "El Magro"
 url: /artigas/el-magro/
-shop: frutería
+shop: Gemüse & Obst
 ---

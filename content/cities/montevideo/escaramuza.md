@@ -1,5 +1,5 @@
 ---
 title: "Escaramuza"
 url: /montevideo/escaramuza/
-shop: libros
+shop: Bücher
 ---

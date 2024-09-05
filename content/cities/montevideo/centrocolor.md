@@ -1,5 +1,5 @@
 ---
 title: "Centrocolor"
 url: /montevideo/centrocolor/
-shop: pintura
+shop: Farben
 ---

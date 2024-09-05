@@ -1,5 +1,5 @@
 ---
 title: "Decore C"
 url: /maldonado/decore-c/
-shop: ropa
+shop: Kleidung
 ---

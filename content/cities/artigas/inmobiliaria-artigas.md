@@ -1,5 +1,5 @@
 ---
 title: "Inmobiliaria Artigas"
 url: /artigas/inmobiliaria-artigas/
-shop: agente inmobiliario
+shop: Immobilien
 ---

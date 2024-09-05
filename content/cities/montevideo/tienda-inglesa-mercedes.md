@@ -1,5 +1,5 @@
 ---
 title: "Tienda Inglesa"
 url: /montevideo/tienda-inglesa-mercedes/
-shop: supermercado
+shop: Supermarkt
 ---

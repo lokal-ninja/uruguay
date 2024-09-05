@@ -1,5 +1,5 @@
 ---
 title: "dji"
 url: /montevideo/dji/
-shop: electrónica
+shop: Elektronik
 ---

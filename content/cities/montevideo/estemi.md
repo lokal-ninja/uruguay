@@ -1,5 +1,5 @@
 ---
 title: "Estemi"
 url: /montevideo/estemi/
-shop: general
+shop: Allgemein
 ---

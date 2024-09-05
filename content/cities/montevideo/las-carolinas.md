@@ -1,5 +1,5 @@
 ---
 title: "Las Carolinas"
 url: /montevideo/las-carolinas/
-shop: comodidad
+shop: Lebensmittel
 ---

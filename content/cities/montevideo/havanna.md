@@ -1,5 +1,5 @@
 ---
 title: "Havanna"
 url: /montevideo/havanna/
-shop: pastelería
+shop: Konditorei
 ---

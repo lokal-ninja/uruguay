@@ -1,5 +1,5 @@
 ---
 title: "Termíkel"
 url: /montevideo/termikel/
-shop: aparato
+shop: Haushaltsgeräte
 ---

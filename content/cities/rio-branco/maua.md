@@ -1,5 +1,5 @@
 ---
 title: "Mauá"
 url: /rio-branco/maua/
-shop: general
+shop: Allgemein
 ---

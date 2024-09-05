@@ -1,5 +1,5 @@
 ---
 title: "El Origen"
 url: /montevideo/el-origen/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santeria Cruzeros"
 url: /montevideo/santeria-cruzeros/
-shop: religión
+shop: Religion
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosana"
 url: /montevideo/rosana/
-shop: comodidad
+shop: Lebensmittel
 ---

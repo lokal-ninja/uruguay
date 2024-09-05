@@ -1,5 +1,5 @@
 ---
 title: "Mimo"
 url: /punta-del-este/mimo/
-shop: comodidad
+shop: Lebensmittel
 ---

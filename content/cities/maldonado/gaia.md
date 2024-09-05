@@ -1,5 +1,5 @@
 ---
 title: "Gaia"
 url: /maldonado/gaia/
-shop: supermercado
+shop: Supermarkt
 ---

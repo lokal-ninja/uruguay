@@ -1,5 +1,5 @@
 ---
 title: "Quijote"
 url: /rio-branco/quijote/
-shop: general
+shop: Allgemein
 ---

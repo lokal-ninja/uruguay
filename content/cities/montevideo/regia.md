@@ -1,5 +1,5 @@
 ---
 title: "Regia"
 url: /montevideo/regia/
-shop: lavandería
+shop: Wäscherei
 ---

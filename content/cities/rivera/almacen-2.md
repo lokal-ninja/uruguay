@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /rivera/almacen-2/
-shop: general
+shop: Allgemein
 ---

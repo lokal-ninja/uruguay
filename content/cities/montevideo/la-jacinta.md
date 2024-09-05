@@ -1,5 +1,5 @@
 ---
 title: "La Jacinta"
 url: /montevideo/la-jacinta/
-shop: hardware
+shop: Eisenwaren
 ---

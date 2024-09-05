@@ -1,5 +1,5 @@
 ---
 title: "Catalunya"
 url: /montevideo/catalunya/
-shop: material de oficina
+shop: Schreibwaren
 ---

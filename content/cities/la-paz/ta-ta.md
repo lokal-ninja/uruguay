@@ -1,5 +1,5 @@
 ---
 title: "Ta-Ta"
 url: /la-paz/ta-ta/
-shop: supermercado
+shop: Supermarkt
 ---

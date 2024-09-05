@@ -1,5 +1,5 @@
 ---
 title: "Autoservice La Palmita"
 url: /montevideo/autoservice-la-palmita/
-shop: comodidad
+shop: Lebensmittel
 ---

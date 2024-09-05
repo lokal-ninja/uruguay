@@ -1,5 +1,5 @@
 ---
 title: "Picasso"
 url: /montevideo/picasso/
-shop: lavandería
+shop: Wäscherei
 ---

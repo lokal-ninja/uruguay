@@ -1,5 +1,5 @@
 ---
 title: "Ta Ta"
 url: /san-carlos/ta-ta/
-shop: supermercado
+shop: Supermarkt
 ---

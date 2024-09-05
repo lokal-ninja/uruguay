@@ -1,5 +1,5 @@
 ---
 title: "Ibiza"
 url: /montevideo/ibiza/
-shop: óptico
+shop: Optiker
 ---

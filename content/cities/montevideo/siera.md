@@ -1,5 +1,5 @@
 ---
 title: "Siera"
 url: /montevideo/siera/
-shop: electrónica
+shop: Elektronik
 ---

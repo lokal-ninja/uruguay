@@ -1,5 +1,5 @@
 ---
 title: "Divino"
 url: /montevideo/divino/
-shop: muebles
+shop: Möbel
 ---

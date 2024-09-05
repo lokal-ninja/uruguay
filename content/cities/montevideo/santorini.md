@@ -1,5 +1,5 @@
 ---
 title: "Santorini"
 url: /montevideo/santorini/
-shop: zapatos
+shop: Schuhe
 ---

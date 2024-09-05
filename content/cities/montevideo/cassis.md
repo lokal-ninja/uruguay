@@ -1,5 +1,5 @@
 ---
 title: "Cassis"
 url: /montevideo/cassis/
-shop: charcutería
+shop: Feinkost
 ---

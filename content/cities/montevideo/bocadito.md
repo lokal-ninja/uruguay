@@ -1,5 +1,5 @@
 ---
 title: "Bocadito"
 url: /montevideo/bocadito/
-shop: panadería
+shop: Bäckerei
 ---

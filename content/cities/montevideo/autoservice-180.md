@@ -1,5 +1,5 @@
 ---
 title: "AUTOSERVICE 180"
 url: /montevideo/autoservice-180/
-shop: supermercado
+shop: Supermarkt
 ---

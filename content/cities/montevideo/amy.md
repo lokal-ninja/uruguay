@@ -1,5 +1,5 @@
 ---
 title: "Amy"
 url: /montevideo/amy/
-shop: lavandería
+shop: Wäscherei
 ---

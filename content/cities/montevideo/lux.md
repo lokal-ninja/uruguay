@@ -1,5 +1,5 @@
 ---
 title: "Lux"
 url: /montevideo/lux/
-shop: óptico
+shop: Optiker
 ---

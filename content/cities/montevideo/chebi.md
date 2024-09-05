@@ -1,5 +1,5 @@
 ---
 title: "Chebi"
 url: /montevideo/chebi/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cerrense"
 url: /montevideo/cerrense/
-shop: floristería
+shop: Blumen
 ---

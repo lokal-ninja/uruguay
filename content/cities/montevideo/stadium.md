@@ -1,5 +1,5 @@
 ---
 title: "Stadium"
 url: /montevideo/stadium/
-shop: zapatos
+shop: Schuhe
 ---

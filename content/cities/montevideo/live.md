@@ -1,5 +1,5 @@
 ---
 title: "Live"
 url: /montevideo/live/
-shop: lavandería
+shop: Wäscherei
 ---

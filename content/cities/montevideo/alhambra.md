@@ -1,5 +1,5 @@
 ---
 title: "Alhambra"
 url: /montevideo/alhambra/
-shop: panadería
+shop: Bäckerei
 ---

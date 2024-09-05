@@ -1,5 +1,5 @@
 ---
 title: "Tecnolux"
 url: /montevideo/tecnolux/
-shop: lámparas
+shop: Lampen
 ---

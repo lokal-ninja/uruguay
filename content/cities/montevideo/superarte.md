@@ -1,5 +1,5 @@
 ---
 title: "SuperArte"
 url: /montevideo/superarte/
-shop: copyshop
+shop: Kopieren
 ---

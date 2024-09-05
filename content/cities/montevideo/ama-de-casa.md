@@ -1,5 +1,5 @@
 ---
 title: "Ama de Casa"
 url: /montevideo/ama-de-casa/
-shop: comodidad
+shop: Lebensmittel
 ---

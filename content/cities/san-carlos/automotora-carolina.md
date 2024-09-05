@@ -1,5 +1,5 @@
 ---
 title: "Automotora Carolina"
 url: /san-carlos/automotora-carolina/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Botiga"
 url: /montevideo/botiga/
-shop: comodidad
+shop: Lebensmittel
 ---

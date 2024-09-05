@@ -1,5 +1,5 @@
 ---
 title: "Armonía"
 url: /montevideo/armonia/
-shop: comodidad
+shop: Lebensmittel
 ---
