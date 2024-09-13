@@ -1,5 +1,5 @@
 ---
 title: "MBI"
 url: /montevideo/mbi/
-shop: Autohaus
+shop: coche
 ---

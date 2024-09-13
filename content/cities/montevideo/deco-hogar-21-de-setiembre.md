@@ -1,5 +1,5 @@
 ---
 title: "Deco Hogar"
 url: /montevideo/deco-hogar-21-de-setiembre/
-shop: Raumausstattung
+shop: decoración interior
 ---

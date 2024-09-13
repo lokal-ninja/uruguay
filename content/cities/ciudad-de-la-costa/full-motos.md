@@ -1,5 +1,5 @@
 ---
 title: "Full Motos"
 url: /ciudad-de-la-costa/full-motos/
-shop: Allgemein
+shop: general
 ---

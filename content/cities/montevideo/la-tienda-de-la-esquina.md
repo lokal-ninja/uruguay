@@ -1,5 +1,5 @@
 ---
 title: "La tienda de la esquina"
 url: /montevideo/la-tienda-de-la-esquina/
-shop: Kleidung
+shop: ropa
 ---

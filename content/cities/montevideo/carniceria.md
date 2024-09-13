@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /montevideo/carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

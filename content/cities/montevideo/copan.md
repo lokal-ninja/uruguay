@@ -1,5 +1,5 @@
 ---
 title: "Copan"
 url: /montevideo/copan/
-shop: Metzgerei
+shop: carnicero
 ---

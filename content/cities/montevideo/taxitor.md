@@ -1,5 +1,5 @@
 ---
 title: "Taxitor"
 url: /montevideo/taxitor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

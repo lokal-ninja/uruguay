@@ -1,5 +1,5 @@
 ---
 title: "Fago"
 url: /artigas/fago/
-shop: Schreibwaren
+shop: material de oficina
 ---

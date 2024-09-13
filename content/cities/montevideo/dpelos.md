@@ -1,5 +1,5 @@
 ---
 title: "D'Pelos"
 url: /montevideo/dpelos/
-shop: Friseur
+shop: peluquería
 ---

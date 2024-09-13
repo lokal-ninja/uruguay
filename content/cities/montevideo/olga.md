@@ -1,5 +1,5 @@
 ---
 title: "Olga"
 url: /montevideo/olga/
-shop: Lebensmittel
+shop: comodidad
 ---

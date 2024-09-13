@@ -1,5 +1,5 @@
 ---
 title: "Palermo"
 url: /montevideo/palermo/
-shop: Bäckerei
+shop: panadería
 ---

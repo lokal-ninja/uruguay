@@ -1,5 +1,5 @@
 ---
 title: "Neutral"
 url: /artigas/neutral/
-shop: Allgemein
+shop: general
 ---

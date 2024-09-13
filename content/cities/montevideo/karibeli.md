@@ -1,5 +1,5 @@
 ---
 title: "Karibeli"
 url: /montevideo/karibeli/
-shop: Metzgerei
+shop: carnicero
 ---

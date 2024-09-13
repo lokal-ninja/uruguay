@@ -1,5 +1,5 @@
 ---
 title: "Sala Centro"
 url: /montevideo/sala-centro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

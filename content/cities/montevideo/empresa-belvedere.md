@@ -1,5 +1,5 @@
 ---
 title: "Empresa Belvedere"
 url: /montevideo/empresa-belvedere/
-shop: Bestattungen
+shop: directores de funerarias
 ---

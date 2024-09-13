@@ -1,5 +1,5 @@
 ---
 title: "Boris"
 url: /montevideo/boris/
-shop: Allgemein
+shop: general
 ---

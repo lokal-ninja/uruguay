@@ -1,5 +1,5 @@
 ---
 title: "Audiopipe"
 url: /montevideo/audiopipe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

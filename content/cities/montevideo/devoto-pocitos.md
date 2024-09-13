@@ -1,5 +1,5 @@
 ---
 title: "Devoto Pocitos"
 url: /montevideo/devoto-pocitos/
-shop: Supermarkt
+shop: supermercado
 ---

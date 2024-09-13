@@ -1,5 +1,5 @@
 ---
 title: "Impresora Sol"
 url: /montevideo/impresora-sol/
-shop: Kopieren
+shop: copyshop
 ---

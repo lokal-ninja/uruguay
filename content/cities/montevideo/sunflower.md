@@ -1,5 +1,5 @@
 ---
 title: "Sunflower"
 url: /montevideo/sunflower/
-shop: Kräuter
+shop: herbolario
 ---

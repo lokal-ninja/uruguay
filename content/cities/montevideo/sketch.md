@@ -1,5 +1,5 @@
 ---
 title: "Sketch"
 url: /montevideo/sketch/
-shop: Kopieren
+shop: copyshop
 ---

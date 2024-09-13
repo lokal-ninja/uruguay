@@ -1,5 +1,5 @@
 ---
 title: "La Resistance - Boulangerie"
 url: /montevideo/la-resistance-boulangerie/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rubik"
 url: /montevideo/rubik/
-shop: Schreibwaren
+shop: material de oficina
 ---

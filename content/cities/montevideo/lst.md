@@ -1,5 +1,5 @@
 ---
 title: "LST"
 url: /montevideo/lst/
-shop: Radiotechnik
+shop: radiotecnia
 ---

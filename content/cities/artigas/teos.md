@@ -1,5 +1,5 @@
 ---
 title: "Teos"
 url: /artigas/teos/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San Cono"
 url: /montevideo/san-cono/
-shop: Allgemein
+shop: general
 ---

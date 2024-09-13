@@ -1,5 +1,5 @@
 ---
 title: "Fletes Poa"
 url: /montevideo/fletes-poa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

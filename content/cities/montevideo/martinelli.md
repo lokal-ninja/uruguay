@@ -1,5 +1,5 @@
 ---
 title: "Martinelli"
 url: /montevideo/martinelli/
-shop: Bestattungen
+shop: directores de funerarias
 ---

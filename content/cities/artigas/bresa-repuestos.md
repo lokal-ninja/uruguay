@@ -1,5 +1,5 @@
 ---
 title: "Bresa Repuestos"
 url: /artigas/bresa-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Dorado"
 url: /maldonado/el-dorado-tacuarembo/
-shop: Supermarkt
+shop: supermercado
 ---

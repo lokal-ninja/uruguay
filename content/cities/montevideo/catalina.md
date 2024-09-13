@@ -1,5 +1,5 @@
 ---
 title: "Catalina"
 url: /montevideo/catalina/
-shop: Lebensmittel
+shop: comodidad
 ---

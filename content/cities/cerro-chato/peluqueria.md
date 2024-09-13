@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /cerro-chato/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

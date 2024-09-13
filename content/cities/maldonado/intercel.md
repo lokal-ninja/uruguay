@@ -1,5 +1,5 @@
 ---
 title: "Intercel"
 url: /maldonado/intercel/
-shop: Handy
+shop: teléfono móvil
 ---

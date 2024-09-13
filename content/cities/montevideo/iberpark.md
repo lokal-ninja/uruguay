@@ -1,5 +1,5 @@
 ---
 title: "Iberpark"
 url: /montevideo/iberpark/
-shop: Lebensmittel
+shop: comodidad
 ---

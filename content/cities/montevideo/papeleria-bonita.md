@@ -1,5 +1,5 @@
 ---
 title: "Papelería Bonita"
 url: /montevideo/papeleria-bonita/
-shop: Schreibwaren
+shop: material de oficina
 ---

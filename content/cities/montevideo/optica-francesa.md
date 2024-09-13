@@ -1,5 +1,5 @@
 ---
 title: "Optica Francesa"
 url: /montevideo/optica-francesa/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jetmar"
 url: /montevideo/jetmar-plaza-independencia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

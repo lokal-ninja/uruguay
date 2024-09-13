@@ -1,5 +1,5 @@
 ---
 title: "A. MOLINARI"
 url: /pando/a-molinari/
-shop: Motorrad
+shop: motocicleta
 ---

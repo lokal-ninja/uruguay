@@ -1,5 +1,5 @@
 ---
 title: "Leo Radiadores"
 url: /montevideo/leo-radiadores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

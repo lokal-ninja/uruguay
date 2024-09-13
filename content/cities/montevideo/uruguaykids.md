@@ -1,5 +1,5 @@
 ---
 title: "UruguayKids"
 url: /montevideo/uruguaykids/
-shop: Allgemein
+shop: general
 ---

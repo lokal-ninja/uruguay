@@ -1,5 +1,5 @@
 ---
 title: "Taller Marsella"
 url: /montevideo/taller-marsella/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

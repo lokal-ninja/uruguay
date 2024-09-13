@@ -1,5 +1,5 @@
 ---
 title: "Globe Solutions"
 url: /montevideo/globe-solutions/
-shop: Computer
+shop: ordenador
 ---

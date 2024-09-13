@@ -1,5 +1,5 @@
 ---
 title: "TACShop"
 url: /artigas/tacshop/
-shop: Elektronik
+shop: electrónica
 ---

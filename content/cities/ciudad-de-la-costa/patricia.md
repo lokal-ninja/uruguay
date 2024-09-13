@@ -1,5 +1,5 @@
 ---
 title: "Patricia"
 url: /ciudad-de-la-costa/patricia/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liderplast"
 url: /montevideo/liderplast/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

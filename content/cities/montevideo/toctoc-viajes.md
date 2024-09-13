@@ -1,5 +1,5 @@
 ---
 title: "Toctoc viajes"
 url: /montevideo/toctoc-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

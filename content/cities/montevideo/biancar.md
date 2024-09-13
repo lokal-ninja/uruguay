@@ -1,5 +1,5 @@
 ---
 title: "Biancar"
 url: /montevideo/biancar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

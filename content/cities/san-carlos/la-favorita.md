@@ -1,5 +1,5 @@
 ---
 title: "La Favorita"
 url: /san-carlos/la-favorita/
-shop: Möbel
+shop: muebles
 ---

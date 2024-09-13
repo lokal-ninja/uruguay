@@ -1,5 +1,5 @@
 ---
 title: "La Favorita"
 url: /montevideo/la-favorita/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BGreat"
 url: /montevideo/bgreat/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mund-o-Gar"
 url: /montevideo/mund-o-gar/
-shop: Elektronik
+shop: electrónica
 ---

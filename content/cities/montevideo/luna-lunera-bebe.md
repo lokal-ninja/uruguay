@@ -1,5 +1,5 @@
 ---
 title: "Luna Lunera Bebé"
 url: /montevideo/luna-lunera-bebe/
-shop: Kleidung
+shop: ropa
 ---

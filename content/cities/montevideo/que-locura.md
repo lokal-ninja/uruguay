@@ -1,5 +1,5 @@
 ---
 title: "Qué Locura!"
 url: /montevideo/que-locura/
-shop: Metzgerei
+shop: carnicero
 ---

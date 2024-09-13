@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
 url: /montevideo/masymas/
-shop: Lebensmittel
+shop: comodidad
 ---

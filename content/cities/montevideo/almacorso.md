@@ -1,5 +1,5 @@
 ---
 title: "Almacorso"
 url: /montevideo/almacorso/
-shop: Allgemein
+shop: general
 ---

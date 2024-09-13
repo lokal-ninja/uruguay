@@ -1,5 +1,5 @@
 ---
 title: "Berlina"
 url: /montevideo/berlina/
-shop: Autoteile
+shop: piezas de automóviles
 ---

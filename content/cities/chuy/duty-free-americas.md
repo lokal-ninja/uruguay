@@ -1,5 +1,5 @@
 ---
 title: "Duty Free Americas"
 url: /chuy/duty-free-americas/
-shop: Kramladen
+shop: tienda de variedades
 ---

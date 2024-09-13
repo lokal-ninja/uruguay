@@ -1,5 +1,5 @@
 ---
 title: "Bergantiños"
 url: /montevideo/bergantinos/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

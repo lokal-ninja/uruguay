@@ -1,5 +1,5 @@
 ---
 title: "Nascar"
 url: /montevideo/nascar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

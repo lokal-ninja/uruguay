@@ -1,5 +1,5 @@
 ---
 title: "Adidas Outlet"
 url: /montevideo/adidas-outlet/
-shop: Kleidung
+shop: ropa
 ---

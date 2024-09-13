@@ -1,5 +1,5 @@
 ---
 title: "Urutransfor"
 url: /montevideo/urutransfor/
-shop: Elektrisch
+shop: eléctrico
 ---

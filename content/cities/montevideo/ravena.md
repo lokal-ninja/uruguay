@@ -1,5 +1,5 @@
 ---
 title: "Ravena"
 url: /montevideo/ravena/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mosca"
 url: /montevideo/mosca/
-shop: Schreibwaren
+shop: material de oficina
 ---

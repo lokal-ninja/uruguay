@@ -1,5 +1,5 @@
 ---
 title: "Portisur"
 url: /montevideo/portisur-miguelete/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florida"
 url: /montevideo/florida/
-shop: Optiker
+shop: óptico
 ---

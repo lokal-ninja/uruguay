@@ -1,5 +1,5 @@
 ---
 title: "Puzzle"
 url: /montevideo/puzzle/
-shop: Kleidung
+shop: ropa
 ---

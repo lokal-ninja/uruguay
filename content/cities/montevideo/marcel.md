@@ -1,5 +1,5 @@
 ---
 title: "Marcel"
 url: /montevideo/marcel/
-shop: Schuhe
+shop: zapatos
 ---

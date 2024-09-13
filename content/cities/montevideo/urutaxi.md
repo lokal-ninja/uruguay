@@ -1,5 +1,5 @@
 ---
 title: "Urutaxi"
 url: /montevideo/urutaxi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

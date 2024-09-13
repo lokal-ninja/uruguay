@@ -1,5 +1,5 @@
 ---
 title: "On Fire Depilaciones"
 url: /montevideo/on-fire-depilaciones/
-shop: Kosmetik
+shop: cosméticos
 ---

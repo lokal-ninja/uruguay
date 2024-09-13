@@ -1,5 +1,5 @@
 ---
 title: "Grupo Record"
 url: /montevideo/grupo-record/
-shop: Eisenwaren
+shop: hardware
 ---

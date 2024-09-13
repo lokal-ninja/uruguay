@@ -1,5 +1,5 @@
 ---
 title: "Turín"
 url: /montevideo/turin/
-shop: Pasta
+shop: pasta
 ---

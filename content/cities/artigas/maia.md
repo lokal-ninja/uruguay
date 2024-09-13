@@ -1,5 +1,5 @@
 ---
 title: "Maia"
 url: /artigas/maia/
-shop: Friseur
+shop: peluquería
 ---

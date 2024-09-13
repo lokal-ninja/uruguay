@@ -1,5 +1,5 @@
 ---
 title: "Megarejo"
 url: /montevideo/megarejo/
-shop: Lebensmittel
+shop: comodidad
 ---

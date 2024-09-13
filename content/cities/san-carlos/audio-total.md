@@ -1,5 +1,5 @@
 ---
 title: "Audio Total"
 url: /san-carlos/audio-total/
-shop: Elektronik
+shop: electrónica
 ---

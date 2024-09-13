@@ -1,5 +1,5 @@
 ---
 title: "Onirico"
 url: /montevideo/onirico/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crash"
 url: /montevideo/crash/
-shop: Allgemein
+shop: general
 ---

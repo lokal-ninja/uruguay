@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería Dal Monte"
 url: /montevideo/cerrajeria-dal-monte/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

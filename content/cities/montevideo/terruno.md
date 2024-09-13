@@ -1,5 +1,5 @@
 ---
 title: "Terruño"
 url: /montevideo/terruno/
-shop: Bioladen
+shop: alimentación sana
 ---

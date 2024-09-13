@@ -1,5 +1,5 @@
 ---
 title: "Multi Optica"
 url: /maldonado/multi-optica/
-shop: Optiker
+shop: óptico
 ---

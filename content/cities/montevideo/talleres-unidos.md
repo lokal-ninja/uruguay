@@ -1,5 +1,5 @@
 ---
 title: "Talleres Unidos"
 url: /montevideo/talleres-unidos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

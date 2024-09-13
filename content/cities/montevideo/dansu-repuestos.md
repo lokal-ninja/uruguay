@@ -1,5 +1,5 @@
 ---
 title: "Dansu Repuestos"
 url: /montevideo/dansu-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

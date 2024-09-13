@@ -1,5 +1,5 @@
 ---
 title: "Crédito de La Casa"
 url: /montevideo/credito-de-la-casa/
-shop: Leiher
+shop: prestamista
 ---

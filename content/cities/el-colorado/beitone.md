@@ -1,5 +1,5 @@
 ---
 title: "Beitone"
 url: /el-colorado/beitone/
-shop: Lebensmittel
+shop: comodidad
 ---

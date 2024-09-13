@@ -1,5 +1,5 @@
 ---
 title: "Ombú"
 url: /montevideo/ombu/
-shop: Lebensmittel
+shop: comodidad
 ---

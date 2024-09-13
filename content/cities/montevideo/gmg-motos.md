@@ -1,5 +1,5 @@
 ---
 title: "GMG Motos"
 url: /montevideo/gmg-motos/
-shop: Motorrad
+shop: motocicleta
 ---

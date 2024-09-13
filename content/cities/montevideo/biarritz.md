@@ -1,5 +1,5 @@
 ---
 title: "Biarritz"
 url: /montevideo/biarritz/
-shop: Bäckerei
+shop: panadería
 ---

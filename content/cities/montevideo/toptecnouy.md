@@ -1,5 +1,5 @@
 ---
 title: "TopTecnoUY"
 url: /montevideo/toptecnouy/
-shop: Handy
+shop: teléfono móvil
 ---

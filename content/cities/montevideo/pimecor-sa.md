@@ -1,5 +1,5 @@
 ---
 title: "Pimecor sa"
 url: /montevideo/pimecor-sa/
-shop: Computer
+shop: ordenador
 ---

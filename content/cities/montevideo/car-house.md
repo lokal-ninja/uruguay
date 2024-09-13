@@ -1,5 +1,5 @@
 ---
 title: "Car House"
 url: /montevideo/car-house/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

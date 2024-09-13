@@ -1,5 +1,5 @@
 ---
 title: "Sportcity"
 url: /salto/sportcity/
-shop: Kleidung
+shop: ropa
 ---

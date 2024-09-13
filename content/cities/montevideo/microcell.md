@@ -1,5 +1,5 @@
 ---
 title: "Microcell"
 url: /montevideo/microcell/
-shop: Handy
+shop: teléfono móvil
 ---

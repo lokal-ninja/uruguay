@@ -1,5 +1,5 @@
 ---
 title: "Valu Robledo Beauty Studio"
 url: /montevideo/valu-robledo-beauty-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pajarito"
 url: /montevideo/pajarito/
-shop: Lebensmittel
+shop: comodidad
 ---

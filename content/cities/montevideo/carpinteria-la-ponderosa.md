@@ -1,5 +1,5 @@
 ---
 title: "Carpinteria la Ponderosa"
 url: /montevideo/carpinteria-la-ponderosa/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ayax"
 url: /montevideo/ayax/
-shop: Autohaus
+shop: coche
 ---

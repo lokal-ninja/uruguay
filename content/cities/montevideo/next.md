@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /montevideo/next/
-shop: Kleidung
+shop: ropa
 ---

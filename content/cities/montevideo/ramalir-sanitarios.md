@@ -1,5 +1,5 @@
 ---
 title: "Ramalir Sanitarios"
 url: /montevideo/ramalir-sanitarios/
-shop: Eisenwaren
+shop: hardware
 ---

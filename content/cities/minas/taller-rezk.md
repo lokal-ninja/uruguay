@@ -1,5 +1,5 @@
 ---
 title: "Taller Rezk"
 url: /minas/taller-rezk/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

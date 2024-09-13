@@ -1,5 +1,5 @@
 ---
 title: "Dansus"
 url: /artigas/dansus/
-shop: Kiosk
+shop: quiosco
 ---

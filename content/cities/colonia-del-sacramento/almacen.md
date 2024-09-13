@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /colonia-del-sacramento/almacen/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anibal"
 url: /montevideo/anibal/
-shop: Lebensmittel
+shop: comodidad
 ---

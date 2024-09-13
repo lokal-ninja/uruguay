@@ -1,5 +1,5 @@
 ---
 title: "Casa Dimaco"
 url: /montevideo/casa-dimaco/
-shop: Baustoffe
+shop: comercio
 ---

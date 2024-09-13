@@ -1,5 +1,5 @@
 ---
 title: "Super Chance"
 url: /montevideo/super-chance/
-shop: Supermarkt
+shop: supermercado
 ---

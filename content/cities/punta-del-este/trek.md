@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /punta-del-este/trek/
-shop: Fahrrad
+shop: bicicleta
 ---

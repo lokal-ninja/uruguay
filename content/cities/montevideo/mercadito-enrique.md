@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Enrique"
 url: /montevideo/mercadito-enrique/
-shop: Lebensmittel
+shop: comodidad
 ---

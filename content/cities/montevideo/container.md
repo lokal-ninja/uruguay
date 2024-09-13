@@ -1,5 +1,5 @@
 ---
 title: "Container"
 url: /montevideo/container/
-shop: Autoteile
+shop: piezas de automóviles
 ---

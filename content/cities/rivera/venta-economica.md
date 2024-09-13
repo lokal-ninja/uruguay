@@ -1,5 +1,5 @@
 ---
 title: "Venta Económica"
 url: /rivera/venta-economica/
-shop: Kleidung
+shop: ropa
 ---

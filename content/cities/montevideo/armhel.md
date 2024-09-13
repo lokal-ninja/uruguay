@@ -1,5 +1,5 @@
 ---
 title: "Armhel"
 url: /montevideo/armhel/
-shop: Eisenwaren
+shop: hardware
 ---

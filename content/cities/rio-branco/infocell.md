@@ -1,5 +1,5 @@
 ---
 title: "Infocell"
 url: /rio-branco/infocell/
-shop: Computer
+shop: ordenador
 ---

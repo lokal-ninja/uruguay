@@ -1,5 +1,5 @@
 ---
 title: "Kaitazoff Motors"
 url: /montevideo/kaitazoff-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

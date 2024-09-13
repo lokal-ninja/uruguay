@@ -1,5 +1,5 @@
 ---
 title: "Infinit Technology"
 url: /montevideo/infinit-technology/
-shop: Computer
+shop: ordenador
 ---

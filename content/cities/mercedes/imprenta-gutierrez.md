@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Gutiérrez"
 url: /mercedes/imprenta-gutierrez/
-shop: Bücher
+shop: libros
 ---

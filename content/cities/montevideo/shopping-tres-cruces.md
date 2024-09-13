@@ -1,5 +1,5 @@
 ---
 title: "Shopping Tres Cruces"
 url: /montevideo/shopping-tres-cruces/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

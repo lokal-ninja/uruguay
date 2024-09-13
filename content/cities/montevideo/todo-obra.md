@@ -1,5 +1,5 @@
 ---
 title: "Todo Obra"
 url: /montevideo/todo-obra/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Helianthus Mercado Saludable"
 url: /fray-bentos/helianthus-mercado-saludable/
-shop: Supermarkt
+shop: supermercado
 ---

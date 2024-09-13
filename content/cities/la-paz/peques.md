@@ -1,5 +1,5 @@
 ---
 title: "Peques"
 url: /la-paz/peques/
-shop: Allgemein
+shop: general
 ---

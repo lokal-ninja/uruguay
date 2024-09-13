@@ -1,5 +1,5 @@
 ---
 title: "La Ranita"
 url: /montevideo/la-ranita/
-shop: Lebensmittel
+shop: comodidad
 ---

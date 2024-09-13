@@ -1,5 +1,5 @@
 ---
 title: "Ciri"
 url: /montevideo/ciri/
-shop: Bäckerei
+shop: panadería
 ---

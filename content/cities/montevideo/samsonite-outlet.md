@@ -1,5 +1,5 @@
 ---
 title: "Samsonite Outlet"
 url: /montevideo/samsonite-outlet/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

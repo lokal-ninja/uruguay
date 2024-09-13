@@ -1,5 +1,5 @@
 ---
 title: "Alquimia"
 url: /montevideo/alquimia-rincon/
-shop: Lebensmittel
+shop: comodidad
 ---

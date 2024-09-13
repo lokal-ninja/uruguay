@@ -1,5 +1,5 @@
 ---
 title: "Susy"
 url: /montevideo/susy/
-shop: Lebensmittel
+shop: comodidad
 ---

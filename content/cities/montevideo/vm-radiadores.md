@@ -1,5 +1,5 @@
 ---
 title: "VM Radiadores"
 url: /montevideo/vm-radiadores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macro Mercado"
 url: /montevideo/macro-mercado/
-shop: Supermarkt
+shop: supermercado
 ---

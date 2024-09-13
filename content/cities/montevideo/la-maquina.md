@@ -1,5 +1,5 @@
 ---
 title: "La Máquina"
 url: /montevideo/la-maquina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

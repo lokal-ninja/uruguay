@@ -1,5 +1,5 @@
 ---
 title: "Alquimia"
 url: /montevideo/alquimia/
-shop: Kerzen
+shop: velas
 ---

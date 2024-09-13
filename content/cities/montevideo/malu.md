@@ -1,5 +1,5 @@
 ---
 title: "Malú"
 url: /montevideo/malu/
-shop: Bäckerei
+shop: panadería
 ---

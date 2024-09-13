@@ -1,5 +1,5 @@
 ---
 title: "Velería Santería"
 url: /montevideo/veleria-santeria/
-shop: Religion
+shop: religión
 ---

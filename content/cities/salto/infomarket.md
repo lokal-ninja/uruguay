@@ -1,5 +1,5 @@
 ---
 title: "InfoMarket"
 url: /salto/infomarket/
-shop: Handy
+shop: teléfono móvil
 ---

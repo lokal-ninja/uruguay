@@ -1,5 +1,5 @@
 ---
 title: "Dolsa"
 url: /montevideo/dolsa/
-shop: Farben
+shop: pintura
 ---

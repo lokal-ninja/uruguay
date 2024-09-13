@@ -1,5 +1,5 @@
 ---
 title: "Selvir"
 url: /montevideo/selvir/
-shop: Autoteile
+shop: piezas de automóviles
 ---

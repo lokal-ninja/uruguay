@@ -1,5 +1,5 @@
 ---
 title: "Óptica Florida"
 url: /salto/optica-florida/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoDirect"
 url: /montevideo/autodirect/
-shop: Allgemein
+shop: general
 ---

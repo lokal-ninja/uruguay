@@ -1,5 +1,5 @@
 ---
 title: "Dr. Cartucho"
 url: /montevideo/dr-cartucho/
-shop: Schreibwaren
+shop: material de oficina
 ---

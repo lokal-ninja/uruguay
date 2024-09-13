@@ -1,5 +1,5 @@
 ---
 title: "Compusyst"
 url: /montevideo/compusyst/
-shop: Computer
+shop: ordenador
 ---

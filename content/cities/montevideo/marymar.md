@@ -1,5 +1,5 @@
 ---
 title: "Marymar"
 url: /montevideo/marymar/
-shop: Supermarkt
+shop: supermercado
 ---

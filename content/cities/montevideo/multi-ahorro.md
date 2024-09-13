@@ -1,5 +1,5 @@
 ---
 title: "Multi Ahorro"
 url: /montevideo/multi-ahorro/
-shop: Supermarkt
+shop: supermercado
 ---

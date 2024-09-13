@@ -1,5 +1,5 @@
 ---
 title: "Provisión La Esquina"
 url: /salto/provision-la-esquina/
-shop: Lebensmittel
+shop: comodidad
 ---

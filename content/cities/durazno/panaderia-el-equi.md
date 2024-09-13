@@ -1,5 +1,5 @@
 ---
 title: "Panaderia El Equi"
 url: /durazno/panaderia-el-equi/
-shop: Bäckerei
+shop: panadería
 ---

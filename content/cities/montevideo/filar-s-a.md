@@ -1,5 +1,5 @@
 ---
 title: "Filar S.A."
 url: /montevideo/filar-s-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

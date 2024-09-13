@@ -1,5 +1,5 @@
 ---
 title: "Ruddy Motos"
 url: /montevideo/ruddy-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

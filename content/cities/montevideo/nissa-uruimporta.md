@@ -1,5 +1,5 @@
 ---
 title: "Nissa-uruimporta"
 url: /montevideo/nissa-uruimporta/
-shop: Eisenwaren
+shop: hardware
 ---

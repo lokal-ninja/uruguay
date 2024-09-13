@@ -1,5 +1,5 @@
 ---
 title: "Beedin"
 url: /montevideo/beedin/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Campbell"
 url: /montevideo/campbell/
-shop: Bäckerei
+shop: panadería
 ---

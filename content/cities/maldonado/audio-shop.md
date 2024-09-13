@@ -1,5 +1,5 @@
 ---
 title: "Audio Shop"
 url: /maldonado/audio-shop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

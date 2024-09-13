@@ -1,5 +1,5 @@
 ---
 title: "Motociclo Sayago"
 url: /montevideo/motociclo-sayago/
-shop: Elektronik
+shop: electrónica
 ---

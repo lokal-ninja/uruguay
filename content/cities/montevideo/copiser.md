@@ -1,5 +1,5 @@
 ---
 title: "CopiSer"
 url: /montevideo/copiser/
-shop: Kopieren
+shop: copyshop
 ---

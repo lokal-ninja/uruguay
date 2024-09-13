@@ -1,5 +1,5 @@
 ---
 title: "Circuit"
 url: /montevideo/circuit/
-shop: Handy
+shop: teléfono móvil
 ---

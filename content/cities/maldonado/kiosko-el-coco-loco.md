@@ -1,5 +1,5 @@
 ---
 title: "Kiosko El Coco Loco"
 url: /maldonado/kiosko-el-coco-loco/
-shop: Lebensmittel
+shop: comodidad
 ---

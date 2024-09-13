@@ -1,5 +1,5 @@
 ---
 title: "Outlet by Zahir"
 url: /montevideo/outlet-by-zahir/
-shop: Möbel
+shop: muebles
 ---

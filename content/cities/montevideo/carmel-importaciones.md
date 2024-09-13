@@ -1,5 +1,5 @@
 ---
 title: "Carmel Importaciones"
 url: /montevideo/carmel-importaciones/
-shop: Handy
+shop: teléfono móvil
 ---

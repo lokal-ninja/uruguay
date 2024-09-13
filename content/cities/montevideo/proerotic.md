@@ -1,5 +1,5 @@
 ---
 title: "ProErotic"
 url: /montevideo/proerotic/
-shop: Erotik
+shop: erótico
 ---

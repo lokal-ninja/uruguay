@@ -1,5 +1,5 @@
 ---
 title: "Manos de Uruguay"
 url: /montevideo/manos-de-uruguay/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khazana"
 url: /montevideo/khazana/
-shop: Kleidung
+shop: ropa
 ---

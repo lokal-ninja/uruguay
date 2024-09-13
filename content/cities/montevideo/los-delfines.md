@@ -1,5 +1,5 @@
 ---
 title: "Los Delfines"
 url: /montevideo/los-delfines/
-shop: Lebensmittel
+shop: comodidad
 ---

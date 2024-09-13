@@ -1,5 +1,5 @@
 ---
 title: "GL Motors"
 url: /montevideo/gl-motors/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Contacto"
 url: /montevideo/contacto/
-shop: Reisebüro
+shop: agencia de viajes
 ---

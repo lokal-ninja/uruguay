@@ -1,5 +1,5 @@
 ---
 title: "Anchoe"
 url: /montevideo/anchoe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

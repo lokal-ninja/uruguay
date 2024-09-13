@@ -1,5 +1,5 @@
 ---
 title: "DIRECTV"
 url: /montevideo/directv/
-shop: Allgemein
+shop: general
 ---

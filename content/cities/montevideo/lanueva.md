@@ -1,5 +1,5 @@
 ---
 title: "Lanueva"
 url: /montevideo/lanueva/
-shop: Eisenwaren
+shop: hardware
 ---

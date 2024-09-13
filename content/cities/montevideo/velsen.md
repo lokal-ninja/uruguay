@@ -1,5 +1,5 @@
 ---
 title: "Velsen"
 url: /montevideo/velsen/
-shop: Metzgerei
+shop: carnicero
 ---

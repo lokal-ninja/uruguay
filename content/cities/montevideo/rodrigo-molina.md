@@ -1,5 +1,5 @@
 ---
 title: "Rodrigo Molina"
 url: /montevideo/rodrigo-molina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

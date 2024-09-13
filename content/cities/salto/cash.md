@@ -1,5 +1,5 @@
 ---
 title: "Cash"
 url: /salto/cash/
-shop: Leiher
+shop: prestamista
 ---

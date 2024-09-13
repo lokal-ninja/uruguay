@@ -1,5 +1,5 @@
 ---
 title: "La Eskina"
 url: /canelones/la-eskina/
-shop: Schuhe
+shop: zapatos
 ---

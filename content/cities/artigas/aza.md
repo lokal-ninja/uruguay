@@ -1,5 +1,5 @@
 ---
 title: "Azá"
 url: /artigas/aza/
-shop: Immobilien
+shop: agente inmobiliario
 ---

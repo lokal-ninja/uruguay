@@ -1,5 +1,5 @@
 ---
 title: "Bazar del Sur"
 url: /montevideo/bazar-del-sur/
-shop: Kramladen
+shop: tienda de variedades
 ---

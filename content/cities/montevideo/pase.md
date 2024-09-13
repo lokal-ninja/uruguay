@@ -1,5 +1,5 @@
 ---
 title: "Pase"
 url: /montevideo/pase/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

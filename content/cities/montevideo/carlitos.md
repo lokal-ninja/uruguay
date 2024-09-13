@@ -1,5 +1,5 @@
 ---
 title: "Carlitos"
 url: /montevideo/carlitos/
-shop: Lebensmittel
+shop: comodidad
 ---

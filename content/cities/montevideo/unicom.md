@@ -1,5 +1,5 @@
 ---
 title: "Unicom"
 url: /montevideo/unicom/
-shop: Computer
+shop: ordenador
 ---

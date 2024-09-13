@@ -1,5 +1,5 @@
 ---
 title: "La Martineta"
 url: /montevideo/la-martineta/
-shop: Waffen
+shop: armas
 ---

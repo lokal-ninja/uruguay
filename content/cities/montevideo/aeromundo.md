@@ -1,5 +1,5 @@
 ---
 title: "Aeromundo"
 url: /montevideo/aeromundo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

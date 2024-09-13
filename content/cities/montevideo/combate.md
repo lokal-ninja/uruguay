@@ -1,5 +1,5 @@
 ---
 title: "Combate"
 url: /montevideo/combate/
-shop: Lebensmittel
+shop: comodidad
 ---

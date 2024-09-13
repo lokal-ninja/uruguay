@@ -1,5 +1,5 @@
 ---
 title: "Arquetipo"
 url: /montevideo/arquetipo/
-shop: Raumausstattung
+shop: decoración interior
 ---

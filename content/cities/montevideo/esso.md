@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /montevideo/esso/
-shop: Lebensmittel
+shop: comodidad
 ---

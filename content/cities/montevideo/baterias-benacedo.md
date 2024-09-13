@@ -1,5 +1,5 @@
 ---
 title: "Baterias Benacedo"
 url: /montevideo/baterias-benacedo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

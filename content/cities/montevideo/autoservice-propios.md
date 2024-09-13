@@ -1,5 +1,5 @@
 ---
 title: "Autoservice Propios"
 url: /montevideo/autoservice-propios/
-shop: Lebensmittel
+shop: comodidad
 ---

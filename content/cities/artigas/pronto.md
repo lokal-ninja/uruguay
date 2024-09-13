@@ -1,5 +1,5 @@
 ---
 title: "Pronto!"
 url: /artigas/pronto/
-shop: Leiher
+shop: prestamista
 ---

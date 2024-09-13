@@ -1,5 +1,5 @@
 ---
 title: "Kroser Avenida"
 url: /montevideo/kroser-avenida/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MorettiSandoval"
 url: /montevideo/morettisandoval/
-shop: Friseur
+shop: peluquería
 ---

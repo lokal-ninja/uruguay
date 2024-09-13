@@ -1,5 +1,5 @@
 ---
 title: "Dulcemanía"
 url: /la-paz/dulcemania/
-shop: Babysachen
+shop: artículos para bebés
 ---

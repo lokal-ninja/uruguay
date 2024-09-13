@@ -1,5 +1,5 @@
 ---
 title: "Montecristo"
 url: /montevideo/montecristo/
-shop: Bäckerei
+shop: panadería
 ---

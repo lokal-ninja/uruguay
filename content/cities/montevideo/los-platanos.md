@@ -1,5 +1,5 @@
 ---
 title: "Los Platanos"
 url: /montevideo/los-platanos/
-shop: Lebensmittel
+shop: comodidad
 ---

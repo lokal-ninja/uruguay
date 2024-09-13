@@ -1,5 +1,5 @@
 ---
 title: "Calypso"
 url: /montevideo/calypso/
-shop: Kleidung
+shop: ropa
 ---

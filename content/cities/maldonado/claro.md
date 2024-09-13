@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /maldonado/claro/
-shop: Handy
+shop: teléfono móvil
 ---

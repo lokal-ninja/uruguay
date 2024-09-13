@@ -1,5 +1,5 @@
 ---
 title: "Supermercado DISTREN"
 url: /montevideo/supermercado-distren/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agromecanica El Vasco"
 url: /guichon/agromecanica-el-vasco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

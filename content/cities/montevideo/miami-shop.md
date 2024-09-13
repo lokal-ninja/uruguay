@@ -1,5 +1,5 @@
 ---
 title: "Miami Shop"
 url: /montevideo/miami-shop/
-shop: Radiotechnik
+shop: radiotecnia
 ---

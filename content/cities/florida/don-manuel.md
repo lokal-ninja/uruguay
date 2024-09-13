@@ -1,5 +1,5 @@
 ---
 title: "Don Manuel"
 url: /florida/don-manuel/
-shop: Bäckerei
+shop: panadería
 ---

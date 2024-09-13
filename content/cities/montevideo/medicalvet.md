@@ -1,5 +1,5 @@
 ---
 title: "MedicalVet"
 url: /montevideo/medicalvet/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

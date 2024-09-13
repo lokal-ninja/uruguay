@@ -1,5 +1,5 @@
 ---
 title: "Mosca"
 url: /montevideo/mosca-avenida-alfredo-arocena/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroHome"
 url: /montevideo/eurohome/
-shop: Elektronik
+shop: electrónica
 ---

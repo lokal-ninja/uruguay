@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /salto/claro/
-shop: Handy
+shop: teléfono móvil
 ---

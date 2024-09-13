@@ -1,5 +1,5 @@
 ---
 title: "Italur Repuestos"
 url: /montevideo/italur-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kolher"
 url: /montevideo/kolher/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrolanda S.C."
 url: /montevideo/electrolanda-s-c/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /montevideo/nike/
-shop: Kleidung
+shop: ropa
 ---

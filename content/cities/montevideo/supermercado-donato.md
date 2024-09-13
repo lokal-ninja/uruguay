@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Donato"
 url: /montevideo/supermercado-donato/
-shop: Supermarkt
+shop: supermercado
 ---

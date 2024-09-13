@@ -1,5 +1,5 @@
 ---
 title: "Jorda"
 url: /montevideo/jorda/
-shop: Autohaus
+shop: coche
 ---

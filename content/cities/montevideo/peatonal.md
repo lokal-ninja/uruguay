@@ -1,5 +1,5 @@
 ---
 title: "Peatonal"
 url: /montevideo/peatonal/
-shop: Lebensmittel
+shop: comodidad
 ---

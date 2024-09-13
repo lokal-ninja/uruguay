@@ -1,5 +1,5 @@
 ---
 title: "Cellular Center"
 url: /montevideo/cellular-center/
-shop: Handy
+shop: teléfono móvil
 ---

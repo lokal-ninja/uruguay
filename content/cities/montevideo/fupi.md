@@ -1,5 +1,5 @@
 ---
 title: "Fupi"
 url: /montevideo/fupi/
-shop: Kleidung
+shop: ropa
 ---

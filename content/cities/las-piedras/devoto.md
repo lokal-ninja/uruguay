@@ -1,5 +1,5 @@
 ---
 title: "Devoto"
 url: /las-piedras/devoto/
-shop: Supermarkt
+shop: supermercado
 ---

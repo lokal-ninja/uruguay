@@ -1,5 +1,5 @@
 ---
 title: "Infoland"
 url: /montevideo/infoland/
-shop: Computer
+shop: ordenador
 ---

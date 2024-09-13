@@ -1,5 +1,5 @@
 ---
 title: "Confitería El Louvre"
 url: /montevideo/confiteria-el-louvre/
-shop: Bäckerei
+shop: panadería
 ---

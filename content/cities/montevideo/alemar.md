@@ -1,5 +1,5 @@
 ---
 title: "Alemar"
 url: /montevideo/alemar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

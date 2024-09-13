@@ -1,5 +1,5 @@
 ---
 title: "Expres"
 url: /montevideo/expres/
-shop: Supermarkt
+shop: supermercado
 ---

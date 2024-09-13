@@ -1,5 +1,5 @@
 ---
 title: "Kacho"
 url: /montevideo/kacho/
-shop: Friseur
+shop: peluquería
 ---

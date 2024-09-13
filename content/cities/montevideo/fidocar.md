@@ -1,5 +1,5 @@
 ---
 title: "Fidocar"
 url: /montevideo/fidocar/
-shop: Autohaus
+shop: coche
 ---

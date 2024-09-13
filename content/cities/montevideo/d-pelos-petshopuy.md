@@ -1,5 +1,5 @@
 ---
 title: "D´Pelos Petshopuy"
 url: /montevideo/d-pelos-petshopuy/
-shop: Tiersalon
+shop: peluquería canina
 ---

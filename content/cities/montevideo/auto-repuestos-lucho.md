@@ -1,5 +1,5 @@
 ---
 title: "Auto-Repuestos Lucho"
 url: /montevideo/auto-repuestos-lucho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

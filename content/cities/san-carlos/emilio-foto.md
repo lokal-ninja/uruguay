@@ -1,5 +1,5 @@
 ---
 title: "Emilio Foto"
 url: /san-carlos/emilio-foto/
-shop: Foto
+shop: foto
 ---

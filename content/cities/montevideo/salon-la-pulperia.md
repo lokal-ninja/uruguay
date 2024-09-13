@@ -1,5 +1,5 @@
 ---
 title: "Salón La Pulpería"
 url: /montevideo/salon-la-pulperia/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Whisky"
 url: /montevideo/la-casa-del-whisky/
-shop: Spirituosen
+shop: alcohol
 ---

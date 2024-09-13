@@ -1,5 +1,5 @@
 ---
 title: "Pastas Palermo"
 url: /montevideo/pastas-palermo/
-shop: Lebensmittel
+shop: comodidad
 ---

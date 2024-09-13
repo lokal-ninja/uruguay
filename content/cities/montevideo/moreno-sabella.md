@@ -1,5 +1,5 @@
 ---
 title: "Moreno Sabella"
 url: /montevideo/moreno-sabella/
-shop: Schmuck
+shop: joyería
 ---

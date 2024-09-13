@@ -1,5 +1,5 @@
 ---
 title: "Zeiko Market"
 url: /montevideo/zeiko-market/
-shop: Lebensmittel
+shop: comodidad
 ---

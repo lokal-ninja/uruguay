@@ -1,5 +1,5 @@
 ---
 title: "Tata"
 url: /montevideo/tata/
-shop: Supermarkt
+shop: supermercado
 ---

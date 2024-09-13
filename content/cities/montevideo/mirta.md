@@ -1,5 +1,5 @@
 ---
 title: "Mirta"
 url: /montevideo/mirta/
-shop: Lebensmittel
+shop: comodidad
 ---

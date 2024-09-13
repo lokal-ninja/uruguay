@@ -1,5 +1,5 @@
 ---
 title: "Florida"
 url: /montevideo/florida-avenida-18-de-julio/
-shop: Optiker
+shop: óptico
 ---

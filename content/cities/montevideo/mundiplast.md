@@ -1,5 +1,5 @@
 ---
 title: "Mundiplast"
 url: /montevideo/mundiplast/
-shop: Allgemein
+shop: general
 ---

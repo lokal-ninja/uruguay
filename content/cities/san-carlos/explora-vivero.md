@@ -1,5 +1,5 @@
 ---
 title: "Explora Vivero"
 url: /san-carlos/explora-vivero/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kentium"
 url: /montevideo/kentium/
-shop: Eisenwaren
+shop: hardware
 ---

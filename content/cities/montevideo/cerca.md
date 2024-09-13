@@ -1,5 +1,5 @@
 ---
 title: "Cerca"
 url: /montevideo/cerca/
-shop: Lebensmittel
+shop: comodidad
 ---

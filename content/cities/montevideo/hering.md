@@ -1,5 +1,5 @@
 ---
 title: "Hering"
 url: /montevideo/hering/
-shop: Kleidung
+shop: ropa
 ---

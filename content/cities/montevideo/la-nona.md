@@ -1,5 +1,5 @@
 ---
 title: "La Nona"
 url: /montevideo/la-nona/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yafer Motos"
 url: /maldonado/yafer-motos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

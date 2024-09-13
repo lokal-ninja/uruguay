@@ -1,5 +1,5 @@
 ---
 title: "Carpag Tur"
 url: /montevideo/carpag-tur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

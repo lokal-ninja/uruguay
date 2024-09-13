@@ -1,5 +1,5 @@
 ---
 title: "La Costa Ya"
 url: /ciudad-de-la-costa/la-costa-ya/
-shop: Getränke
+shop: bebidas
 ---

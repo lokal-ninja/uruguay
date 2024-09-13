@@ -1,5 +1,5 @@
 ---
 title: "Victoria Car"
 url: /montevideo/victoria-car/
-shop: Autohaus
+shop: coche
 ---

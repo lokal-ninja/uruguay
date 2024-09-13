@@ -1,5 +1,5 @@
 ---
 title: "Castro"
 url: /montevideo/castro-bulevar-espana/
-shop: Allgemein
+shop: general
 ---

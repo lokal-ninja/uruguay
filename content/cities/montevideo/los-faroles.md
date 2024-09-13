@@ -1,5 +1,5 @@
 ---
 title: "Los Faroles"
 url: /montevideo/los-faroles/
-shop: Lebensmittel
+shop: comodidad
 ---

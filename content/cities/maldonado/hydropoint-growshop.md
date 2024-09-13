@@ -1,5 +1,5 @@
 ---
 title: "Hydropoint Growshop"
 url: /maldonado/hydropoint-growshop/
-shop: Garten-Center
+shop: centro de jardinería
 ---

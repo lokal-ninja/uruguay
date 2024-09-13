@@ -1,5 +1,5 @@
 ---
 title: "Automecanica Romagre"
 url: /montevideo/automecanica-romagre/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

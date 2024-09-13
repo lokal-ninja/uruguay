@@ -1,5 +1,5 @@
 ---
 title: "Lagándara"
 url: /montevideo/lagandara/
-shop: Bäckerei
+shop: panadería
 ---

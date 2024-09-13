@@ -1,5 +1,5 @@
 ---
 title: "Arredo Factory"
 url: /maldonado/arredo-factory/
-shop: Betten
+shop: cama
 ---

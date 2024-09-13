@@ -1,5 +1,5 @@
 ---
 title: "La Montaña"
 url: /montevideo/la-montana/
-shop: Lebensmittel
+shop: comodidad
 ---

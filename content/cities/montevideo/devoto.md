@@ -1,5 +1,5 @@
 ---
 title: "Devoto"
 url: /montevideo/devoto/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turko's al costo"
 url: /salto/turkos-al-costo/
-shop: Kramladen
+shop: tienda de variedades
 ---

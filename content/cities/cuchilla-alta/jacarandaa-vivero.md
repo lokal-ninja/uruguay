@@ -1,5 +1,5 @@
 ---
 title: "Jacarandaa Vivero"
 url: /cuchilla-alta/jacarandaa-vivero/
-shop: Garten-Center
+shop: centro de jardinería
 ---

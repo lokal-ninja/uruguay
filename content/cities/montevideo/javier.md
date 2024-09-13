@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /montevideo/javier/
-shop: Lebensmittel
+shop: comodidad
 ---

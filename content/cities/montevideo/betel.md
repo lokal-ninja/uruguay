@@ -1,5 +1,5 @@
 ---
 title: "Betel"
 url: /montevideo/betel/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

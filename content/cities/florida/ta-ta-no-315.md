@@ -1,5 +1,5 @@
 ---
 title: "Ta-Ta Nº 315"
 url: /florida/ta-ta-no-315/
-shop: Supermarkt
+shop: supermercado
 ---

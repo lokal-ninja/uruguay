@@ -1,5 +1,5 @@
 ---
 title: "Salon de Belleza"
 url: /montevideo/salon-de-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

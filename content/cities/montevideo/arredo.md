@@ -1,5 +1,5 @@
 ---
 title: "Arredo"
 url: /montevideo/arredo/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

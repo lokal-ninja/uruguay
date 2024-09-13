@@ -1,5 +1,5 @@
 ---
 title: "Virrey"
 url: /rio-branco/virrey/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devoto Express Yi"
 url: /montevideo/devoto-express-yi/
-shop: Lebensmittel
+shop: comodidad
 ---

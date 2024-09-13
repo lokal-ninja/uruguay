@@ -1,5 +1,5 @@
 ---
 title: "Cacciola"
 url: /carmelo/cacciola/
-shop: Tickets
+shop: entradas
 ---

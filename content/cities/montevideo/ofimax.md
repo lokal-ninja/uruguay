@@ -1,5 +1,5 @@
 ---
 title: "Ofimax"
 url: /montevideo/ofimax/
-shop: Computer
+shop: ordenador
 ---

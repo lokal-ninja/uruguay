@@ -1,5 +1,5 @@
 ---
 title: "URUPLAC"
 url: /montevideo/uruplac/
-shop: Baustoffe
+shop: comercio
 ---

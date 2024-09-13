@@ -1,5 +1,5 @@
 ---
 title: "Autoservice La Tablada"
 url: /montevideo/autoservice-la-tablada/
-shop: Lebensmittel
+shop: comodidad
 ---

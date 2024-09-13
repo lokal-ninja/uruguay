@@ -1,5 +1,5 @@
 ---
 title: "Mundocolor"
 url: /montevideo/mundocolor/
-shop: Farben
+shop: pintura
 ---

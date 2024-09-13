@@ -1,5 +1,5 @@
 ---
 title: "Symphorine"
 url: /salto/symphorine/
-shop: Allgemein
+shop: general
 ---

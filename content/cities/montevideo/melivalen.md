@@ -1,5 +1,5 @@
 ---
 title: "Melivalen"
 url: /montevideo/melivalen/
-shop: Lebensmittel
+shop: comodidad
 ---

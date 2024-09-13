@@ -1,5 +1,5 @@
 ---
 title: "Lalia"
 url: /montevideo/lalia/
-shop: Lebensmittel
+shop: comodidad
 ---

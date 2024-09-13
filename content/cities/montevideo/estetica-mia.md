@@ -1,5 +1,5 @@
 ---
 title: "Estética Mía"
 url: /montevideo/estetica-mia/
-shop: Friseur
+shop: peluquería
 ---

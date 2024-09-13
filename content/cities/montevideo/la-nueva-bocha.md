@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Bocha"
 url: /montevideo/la-nueva-bocha/
-shop: Bäckerei
+shop: panadería
 ---

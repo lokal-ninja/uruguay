@@ -1,5 +1,5 @@
 ---
 title: "Variéte"
 url: /artigas/variete/
-shop: Kleidung
+shop: ropa
 ---

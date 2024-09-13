@@ -1,5 +1,5 @@
 ---
 title: "Florida"
 url: /canelones/florida/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
 url: /montevideo/parabrisas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

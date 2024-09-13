@@ -1,5 +1,5 @@
 ---
 title: "EL OBRERO Tienda y Bazar"
 url: /salto/el-obrero-tienda-y-bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

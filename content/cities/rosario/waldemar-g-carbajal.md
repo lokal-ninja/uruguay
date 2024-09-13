@@ -1,5 +1,5 @@
 ---
 title: "Waldemar G Carbajal"
 url: /rosario/waldemar-g-carbajal/
-shop: Allgemein
+shop: general
 ---

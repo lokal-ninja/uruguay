@@ -1,5 +1,5 @@
 ---
 title: "La Bohemia"
 url: /montevideo/la-bohemia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auxicar"
 url: /montevideo/auxicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

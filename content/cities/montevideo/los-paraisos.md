@@ -1,5 +1,5 @@
 ---
 title: "Los Paraísos"
 url: /montevideo/los-paraisos/
-shop: Supermarkt
+shop: supermercado
 ---

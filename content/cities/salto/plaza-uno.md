@@ -1,5 +1,5 @@
 ---
 title: "Plaza Uno"
 url: /salto/plaza-uno/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Congelado"
 url: /montevideo/congelado/
-shop: Lebensmittel
+shop: comodidad
 ---

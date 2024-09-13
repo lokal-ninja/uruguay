@@ -1,5 +1,5 @@
 ---
 title: "Jetmar"
 url: /montevideo/jetmar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

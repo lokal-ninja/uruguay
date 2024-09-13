@@ -1,5 +1,5 @@
 ---
 title: "Esetur"
 url: /san-javier/esetur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

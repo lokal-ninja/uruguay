@@ -1,5 +1,5 @@
 ---
 title: "Farmashop"
 url: /montevideo/farmashop/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CNS"
 url: /montevideo/cns/
-shop: Computer
+shop: ordenador
 ---

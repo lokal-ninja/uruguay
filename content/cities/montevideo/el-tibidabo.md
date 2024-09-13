@@ -1,5 +1,5 @@
 ---
 title: "el Tibidabo"
 url: /montevideo/el-tibidabo/
-shop: Kleidung
+shop: ropa
 ---

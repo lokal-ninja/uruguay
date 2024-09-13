@@ -1,5 +1,5 @@
 ---
 title: "Barreda"
 url: /montevideo/barreda/
-shop: Lebensmittel
+shop: comodidad
 ---

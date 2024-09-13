@@ -1,5 +1,5 @@
 ---
 title: "Alegría"
 url: /montevideo/alegria/
-shop: Lebensmittel
+shop: comodidad
 ---

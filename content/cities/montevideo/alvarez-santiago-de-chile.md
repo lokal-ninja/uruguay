@@ -1,5 +1,5 @@
 ---
 title: "Álvarez"
 url: /montevideo/alvarez-santiago-de-chile/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

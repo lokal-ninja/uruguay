@@ -1,5 +1,5 @@
 ---
 title: "Alberto Valverde"
 url: /montevideo/alberto-valverde/
-shop: Autoteile
+shop: piezas de automóviles
 ---

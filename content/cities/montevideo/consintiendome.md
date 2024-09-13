@@ -1,5 +1,5 @@
 ---
 title: "Consintiéndome"
 url: /montevideo/consintiendome/
-shop: Friseur
+shop: peluquería
 ---

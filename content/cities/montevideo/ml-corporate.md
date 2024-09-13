@@ -1,5 +1,5 @@
 ---
 title: "ML Corporate"
 url: /montevideo/ml-corporate/
-shop: Reisebüro
+shop: agencia de viajes
 ---

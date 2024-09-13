@@ -1,5 +1,5 @@
 ---
 title: "Danston"
 url: /montevideo/danston/
-shop: Computer
+shop: ordenador
 ---

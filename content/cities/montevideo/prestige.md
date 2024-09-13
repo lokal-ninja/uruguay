@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
 url: /montevideo/prestige/
-shop: Friseur
+shop: peluquería
 ---

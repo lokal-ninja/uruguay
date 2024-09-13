@@ -1,5 +1,5 @@
 ---
 title: "Electrocomponentes"
 url: /artigas/electrocomponentes/
-shop: Elektronik
+shop: electrónica
 ---

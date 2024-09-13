@@ -1,5 +1,5 @@
 ---
 title: "La Clave"
 url: /montevideo/la-clave/
-shop: Supermarkt
+shop: supermercado
 ---

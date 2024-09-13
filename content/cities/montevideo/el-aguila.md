@@ -1,5 +1,5 @@
 ---
 title: "El Aguila"
 url: /montevideo/el-aguila/
-shop: Textil
+shop: tela
 ---

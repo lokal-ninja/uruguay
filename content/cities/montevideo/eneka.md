@@ -1,5 +1,5 @@
 ---
 title: "Eneka"
 url: /montevideo/eneka/
-shop: Radiotechnik
+shop: radiotecnia
 ---

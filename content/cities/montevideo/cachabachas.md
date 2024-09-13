@@ -1,5 +1,5 @@
 ---
 title: "Cachabacha's"
 url: /montevideo/cachabachas/
-shop: Schreibwaren
+shop: material de oficina
 ---

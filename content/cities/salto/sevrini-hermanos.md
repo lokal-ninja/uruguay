@@ -1,5 +1,5 @@
 ---
 title: "Sevrini Hermanos"
 url: /salto/sevrini-hermanos/
-shop: Schreibwaren
+shop: material de oficina
 ---

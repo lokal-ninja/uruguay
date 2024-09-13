@@ -1,5 +1,5 @@
 ---
 title: "La Española"
 url: /montevideo/la-espanola/
-shop: Metzgerei
+shop: carnicero
 ---

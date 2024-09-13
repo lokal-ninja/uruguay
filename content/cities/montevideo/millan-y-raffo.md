@@ -1,5 +1,5 @@
 ---
 title: "Millán y Raffo"
 url: /montevideo/millan-y-raffo/
-shop: Bäckerei
+shop: panadería
 ---

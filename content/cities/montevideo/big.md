@@ -1,5 +1,5 @@
 ---
 title: "BIG"
 url: /montevideo/big/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pujol"
 url: /montevideo/pujol/
-shop: Pokal
+shop: trofeo
 ---

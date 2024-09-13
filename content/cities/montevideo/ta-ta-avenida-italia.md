@@ -1,5 +1,5 @@
 ---
 title: "Ta-Ta"
 url: /montevideo/ta-ta-avenida-italia/
-shop: Supermarkt
+shop: supermercado
 ---

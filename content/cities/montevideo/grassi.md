@@ -1,5 +1,5 @@
 ---
 title: "Grassi"
 url: /montevideo/grassi/
-shop: Küchen
+shop: cocina
 ---

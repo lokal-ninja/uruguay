@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /montevideo/mini/
-shop: Lebensmittel
+shop: comodidad
 ---

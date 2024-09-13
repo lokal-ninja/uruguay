@@ -1,5 +1,5 @@
 ---
 title: "Musai"
 url: /montevideo/musai/
-shop: Raumausstattung
+shop: decoración interior
 ---

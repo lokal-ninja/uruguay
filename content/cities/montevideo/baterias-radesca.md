@@ -1,5 +1,5 @@
 ---
 title: "Baterias Radesca"
 url: /montevideo/baterias-radesca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

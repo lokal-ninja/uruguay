@@ -1,5 +1,5 @@
 ---
 title: "Ta Maria Placas"
 url: /montevideo/ta-maria-placas/
-shop: Allgemein
+shop: general
 ---

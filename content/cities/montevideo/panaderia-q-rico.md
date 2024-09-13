@@ -1,5 +1,5 @@
 ---
 title: "Panadería Q' Rico"
 url: /montevideo/panaderia-q-rico/
-shop: Bäckerei
+shop: panadería
 ---

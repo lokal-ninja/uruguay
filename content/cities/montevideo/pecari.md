@@ -1,5 +1,5 @@
 ---
 title: "Pecarí"
 url: /montevideo/pecari/
-shop: Kleidung
+shop: ropa
 ---
