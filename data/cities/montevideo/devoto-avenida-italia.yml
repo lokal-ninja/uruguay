@@ -1,11 +1,11 @@
 id: 179733141
-type: way
+type: node
 latitude: -34.88069
 longitude: -56.0813
 postcode: ""
 city: Montevideo
-street: "Avenida Italia"
-housenumber: 5779
-phone: "+598 2601 8050"
-opening_hours: "07:30-22:00"
-website: "https://www.devoto.com.uy/"
+street: Avenida Italia
+housenumber: "5779"
+phone: +598 2601 8050
+opening_hours: 07:30-22:00
+website: https://www.devoto.com.uy/

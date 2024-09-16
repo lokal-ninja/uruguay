@@ -1,11 +1,11 @@
 id: 457995855
-type: way
+type: node
 latitude: -34.8974
 longitude: -54.93551
 postcode: "20000"
 city: Maldonado
-street: "Juan Alberto Caracará"
-housenumber: 
+street: Juan Alberto Caracará
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

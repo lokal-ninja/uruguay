@@ -1,11 +1,11 @@
 id: 456877151
-type: way
+type: node
 latitude: -34.9012
 longitude: -56.18496
 postcode: ""
 city: Montevideo
-street: "Paysandú"
-housenumber: 1523
+street: Paysandú
+housenumber: "1523"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30;Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:30;Sa 07:00-12:00
 website: ""

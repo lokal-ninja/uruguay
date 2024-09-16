@@ -4,8 +4,8 @@ latitude: -34.89464
 longitude: -56.17603
 postcode: ""
 city: Montevideo
-street: "La Paz"
-housenumber: 2002
-phone: "+598 2400-5930"
-opening_hours: "Mo-Fr 08:30-13:30,14:00-18:30"
-website: "https://www.europarts.com.uy"
+street: La Paz
+housenumber: "2002"
+phone: +598 2400-5930
+opening_hours: Mo-Fr 08:30-13:30,14:00-18:30
+website: https://www.europarts.com.uy

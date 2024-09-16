@@ -1,11 +1,11 @@
 id: 584795644
-type: way
+type: node
 latitude: -34.87581
 longitude: -56.1693
 postcode: "11800"
 city: Montevideo
-street: "Yaguarí"
-housenumber: 2182
+street: Yaguarí
+housenumber: "2182"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30"
+opening_hours: Mo-Fr 08:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 458332877
-type: way
+type: node
 latitude: -34.90634
 longitude: -56.13644
 postcode: ""
 city: Montevideo
-street: "Avenida Luis Alberto de Herrera"
-housenumber: 1162
-phone: "+598 2622 8000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://shoppingcar.com.uy/"
+street: Avenida Luis Alberto de Herrera
+housenumber: "1162"
+phone: +598 2622 8000
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://shoppingcar.com.uy/

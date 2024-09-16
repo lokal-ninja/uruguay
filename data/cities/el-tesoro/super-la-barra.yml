@@ -1,11 +1,11 @@
 id: 611928547
-type: way
+type: node
 latitude: -34.90749
 longitude: -54.86567
 postcode: "20000"
 city: El Tesoro
-street: "Carlos Gardel"
-housenumber: 
+street: Carlos Gardel
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:30-21:30; Su 08:00-21:00"
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:30-21:30; Su 08:00-21:00
 website: ""

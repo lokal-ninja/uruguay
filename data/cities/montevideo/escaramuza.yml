@@ -4,8 +4,8 @@ latitude: -34.90652
 longitude: -56.17101
 postcode: "11200"
 city: Montevideo
-street: "Doctor Pablo de María"
-housenumber: 1185
-phone: "+598 2401 3475"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://escaramuza.com.uy/"
+street: Doctor Pablo de María
+housenumber: "1185"
+phone: +598 2401 3475
+opening_hours: Mo-Sa 09:00-21:00
+website: https://escaramuza.com.uy/

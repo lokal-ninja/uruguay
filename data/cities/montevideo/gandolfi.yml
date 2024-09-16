@@ -1,11 +1,11 @@
 id: 458765104
-type: way
+type: node
 latitude: -34.9147
 longitude: -56.15636
 postcode: ""
 city: Montevideo
-street: "Luis de la Torre"
-housenumber: 881
+street: Luis de la Torre
+housenumber: "881"
 phone: ""
 opening_hours: ""
 website: ""

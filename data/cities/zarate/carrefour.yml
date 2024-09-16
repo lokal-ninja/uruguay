@@ -4,8 +4,8 @@ latitude: -33.2186
 longitude: -57.9862
 postcode: "2800"
 city: Zarate
-street: "peru"
-housenumber: 123
+street: peru
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

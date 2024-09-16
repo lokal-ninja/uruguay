@@ -1,11 +1,11 @@
 id: 512995218
-type: way
+type: node
 latitude: -34.80555
 longitude: -56.22218
 postcode: ""
 city: Montevideo
-street: "Avenida General Eugenio Garzón"
-housenumber: 1918
+street: Avenida General Eugenio Garzón
+housenumber: "1918"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 458357836
-type: way
+type: node
 latitude: -34.88072
 longitude: -56.1541
 postcode: "11600"
 city: Montevideo
-street: "Avenida Luis Alberto de Herrera"
-housenumber: 2635
-phone: "+598 2487 9091"
-opening_hours: "08:00-24:00"
+street: Avenida Luis Alberto de Herrera
+housenumber: "2635"
+phone: +598 2487 9091
+opening_hours: 08:00-24:00
 website: ""

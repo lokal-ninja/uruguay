@@ -1,11 +1,11 @@
 id: 244964544
-type: way
+type: node
 latitude: -34.82853
 longitude: -56.12501
 postcode: "12200"
 city: Montevideo
-street: "Rafael"
-housenumber: 4079
-phone: "+598 2514 4233"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Rafael
+housenumber: "4079"
+phone: +598 2514 4233
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

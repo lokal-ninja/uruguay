@@ -4,8 +4,8 @@ latitude: -34.90299
 longitude: -56.19208
 postcode: ""
 city: Montevideo
-street: "Avenida Uruguay"
-housenumber: 1139
-phone: "+598 2902 1034"
-opening_hours: "Mo-Fr 09:00-17:45"
-website: "https://www.mapa.com.uy/"
+street: Avenida Uruguay
+housenumber: "1139"
+phone: +598 2902 1034
+opening_hours: Mo-Fr 09:00-17:45
+website: https://www.mapa.com.uy/

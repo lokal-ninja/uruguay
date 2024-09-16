@@ -1,11 +1,11 @@
 id: 895125545
-type: way
+type: node
 latitude: -34.8886
 longitude: -56.11818
 postcode: "11400"
 city: Montevideo
-street: "Avenida Italia"
-housenumber: 4206
+street: Avenida Italia
+housenumber: "4206"
 phone: "+59826187904"
-opening_hours: "Mo-Fr 10:00-22:00; Sa 10:00-23:00; Su 10:00-18:00"
-website: "https://www.plazaitaliashopping.com.uy/"
+opening_hours: Mo-Fr 10:00-22:00; Sa 10:00-23:00; Su 10:00-18:00
+website: https://www.plazaitaliashopping.com.uy/

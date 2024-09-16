@@ -1,11 +1,11 @@
 id: 458378165
-type: way
+type: node
 latitude: -34.89555
 longitude: -56.1468
 postcode: ""
 city: Montevideo
-street: "Avenida Ramón Anador"
-housenumber: 3225
+street: Avenida Ramón Anador
+housenumber: "3225"
 phone: ""
 opening_hours: ""
 website: ""

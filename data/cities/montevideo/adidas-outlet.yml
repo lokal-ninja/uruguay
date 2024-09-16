@@ -1,11 +1,11 @@
 id: 457971833
-type: way
+type: node
 latitude: -34.8864
 longitude: -56.12704
 postcode: ""
 city: Montevideo
-street: "Avenida Italia"
-housenumber: 3821
+street: Avenida Italia
+housenumber: "3821"
 phone: ""
 opening_hours: ""
 website: ""

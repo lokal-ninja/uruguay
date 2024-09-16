@@ -1,11 +1,11 @@
 id: 574875820
-type: way
+type: node
 latitude: -30.4021
 longitude: -56.46677
 postcode: "55000"
 city: Artigas
-street: "Avenida Coronel Carlos Lecueder"
-housenumber: 421
+street: Avenida Coronel Carlos Lecueder
+housenumber: "421"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

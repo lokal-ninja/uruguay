@@ -4,8 +4,8 @@ latitude: -34.90622
 longitude: -56.19753
 postcode: ""
 city: Montevideo
-street: "Avenida 18 de Julio"
-housenumber: 875
-phone: "+598 2901 0765"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.circuit.com.uy/"
+street: Avenida 18 de Julio
+housenumber: "875"
+phone: +598 2901 0765
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://www.circuit.com.uy/

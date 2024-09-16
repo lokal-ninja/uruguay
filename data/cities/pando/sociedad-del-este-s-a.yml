@@ -1,11 +1,11 @@
 id: 548015282
-type: way
+type: node
 latitude: -34.71719
 longitude: -55.96278
 postcode: ""
 city: Pando
-street: "General Garibaldi"
-housenumber: 953
-phone: "+598 2292 2253"
-opening_hours: "24/7"
+street: General Garibaldi
+housenumber: "953"
+phone: +598 2292 2253
+opening_hours: 24/7
 website: ""

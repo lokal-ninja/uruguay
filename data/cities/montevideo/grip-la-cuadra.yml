@@ -1,11 +1,11 @@
 id: 456888578
-type: way
+type: node
 latitude: -34.90181
 longitude: -56.18576
 postcode: ""
 city: ;Montevideo
-street: "Paysandú"
-housenumber: 1488
-phone: "2401 6616"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-12:30"
-website: "http://www.petinsa.com.uy/grip-car-center.php"
+street: Paysandú
+housenumber: "1488"
+phone: 2401 6616
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-12:30
+website: http://www.petinsa.com.uy/grip-car-center.php

@@ -1,11 +1,11 @@
 id: 456858845
-type: way
+type: node
 latitude: -34.87053
 longitude: -56.2108
 postcode: ""
 city: Montevideo
-street: "Capurro"
-housenumber: 
+street: Capurro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

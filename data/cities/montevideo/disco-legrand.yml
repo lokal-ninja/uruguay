@@ -1,11 +1,11 @@
 id: 132180311
-type: way
+type: node
 latitude: -34.88941
 longitude: -56.09887
 postcode: "11400"
 city: Montevideo
-street: "Avenida Enrique Legrand"
-housenumber: 5085
+street: Avenida Enrique Legrand
+housenumber: "5085"
 phone: ""
 opening_hours: ""
 website: ""

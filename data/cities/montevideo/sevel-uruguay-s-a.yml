@@ -1,11 +1,11 @@
 id: 457959548
-type: way
+type: node
 latitude: -34.8956
 longitude: -56.08102
 postcode: ""
 city: Montevideo
-street: "Avenida General José María Paz"
-housenumber: 1305
+street: Avenida General José María Paz
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

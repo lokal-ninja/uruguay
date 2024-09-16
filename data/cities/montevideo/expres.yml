@@ -1,11 +1,11 @@
 id: 456678282
-type: way
+type: node
 latitude: -34.91182
 longitude: -56.17554
 postcode: "11200"
 city: Montevideo
-street: "Avenida Gonzalo Ramírez"
-housenumber: 1811
+street: Avenida Gonzalo Ramírez
+housenumber: "1811"
 phone: "+59824195251"
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

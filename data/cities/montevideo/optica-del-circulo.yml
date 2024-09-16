@@ -1,11 +1,11 @@
 id: 456842769
-type: way
+type: node
 latitude: -34.90669
 longitude: -56.1796
 postcode: ""
 city: Montevideo
-street: "Minas"
-housenumber: 
+street: Minas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

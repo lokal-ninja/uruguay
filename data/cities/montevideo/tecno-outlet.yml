@@ -4,8 +4,8 @@ latitude: -34.90008
 longitude: -56.17164
 postcode: "11200"
 city: Montevideo
-street: "Avenida 18 de Julio"
-housenumber: 2033
+street: Avenida 18 de Julio
+housenumber: "2033"
 phone: "+598097222300"
-opening_hours: "Lu-Vi 09-00-19:00 Sa 09:00-13:30"
-website: "https://www.tecnooutlet.uy/"
+opening_hours: Lu-Vi 09-00-19:00 Sa 09:00-13:30
+website: https://www.tecnooutlet.uy/

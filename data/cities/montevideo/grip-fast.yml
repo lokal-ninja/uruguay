@@ -4,8 +4,8 @@ latitude: -34.90464
 longitude: -56.18893
 postcode: ""
 city: Montevideo
-street: "Colonia"
-housenumber: 1251
-phone: "+598 2900 4011"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-12:30"
-website: "http://www.petinsa.com.uy/grip-car-center.php"
+street: Colonia
+housenumber: "1251"
+phone: +598 2900 4011
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-12:30
+website: http://www.petinsa.com.uy/grip-car-center.php

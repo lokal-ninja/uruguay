@@ -1,11 +1,11 @@
 id: 336850610
-type: way
+type: node
 latitude: -34.52128
 longitude: -56.28029
 postcode: "90000"
 city: Canelones
-street: "Florencio Sánchez"
-housenumber: 729
+street: Florencio Sánchez
+housenumber: "729"
 phone: "43325032"
-opening_hours: "Mo-Su 07:30-21:30"
+opening_hours: Mo-Su 07:30-21:30
 website: ""

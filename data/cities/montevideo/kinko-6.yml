@@ -1,11 +1,11 @@
 id: 458336412
-type: way
+type: node
 latitude: -34.90307
 longitude: -56.15568
 postcode: ""
 city: Montevideo
-street: "Avenida General Rivera"
-housenumber: 2715
+street: Avenida General Rivera
+housenumber: "2715"
 phone: ""
 opening_hours: ""
 website: ""

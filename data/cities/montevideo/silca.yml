@@ -1,11 +1,11 @@
 id: 458123096
-type: way
+type: node
 latitude: -34.88938
 longitude: -56.16624
 postcode: ""
 city: Montevideo
-street: "General Pagola"
-housenumber: 2333
+street: General Pagola
+housenumber: "2333"
 phone: ""
 opening_hours: ""
 website: ""

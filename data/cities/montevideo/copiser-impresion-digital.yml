@@ -4,8 +4,8 @@ latitude: -34.9122
 longitude: -56.16001
 postcode: "11300"
 city: Montevideo
-street: "Bulevar España"
-housenumber: 2512
+street: Bulevar España
+housenumber: "2512"
 phone: "+59827106458"
-opening_hours: "Mo-Fr 09:00 18:00; Sa 09:00 01:00"
-website: "https://www.copiser.com.uy/"
+opening_hours: Mo-Fr 09:00 18:00; Sa 09:00 01:00
+website: https://www.copiser.com.uy/

@@ -1,11 +1,11 @@
 id: 455173187
-type: way
+type: node
 latitude: -34.85537
 longitude: -56.22101
 postcode: ""
 city: Montevideo
-street: "San Quintín"
-housenumber: 4270
+street: San Quintín
+housenumber: "4270"
 phone: ""
 opening_hours: ""
 website: ""

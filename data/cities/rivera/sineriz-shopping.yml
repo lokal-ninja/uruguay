@@ -1,11 +1,11 @@
 id: 226640615
-type: way
+type: node
 latitude: -30.89971
 longitude: -55.52608
 postcode: "40000"
 city: Rivera
-street: "Sepe"
-housenumber: 51
+street: Sepe
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.sineriz.com.uy/"
+website: https://www.sineriz.com.uy/

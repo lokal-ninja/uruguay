@@ -1,11 +1,11 @@
 id: 459215781
-type: way
+type: node
 latitude: -34.92317
 longitude: -56.15818
 postcode: ""
 city: Montevideo
-street: "Francisco Solano García"
-housenumber: 2525
-phone: "+598 2712 1451; +598 2712 0317"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"
-website: "https://boomerang.uy/"
+street: Francisco Solano García
+housenumber: "2525"
+phone: +598 2712 1451; +598 2712 0317
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-16:00
+website: https://boomerang.uy/

@@ -1,11 +1,11 @@
 id: 548015281
-type: way
+type: node
 latitude: -34.71711
 longitude: -55.96167
 postcode: ""
 city: Pando
-street: "General Artigas"
-housenumber: 851
-phone: "+598 2292 0800"
+street: General Artigas
+housenumber: "851"
+phone: +598 2292 0800
 opening_hours: ""
 website: ""

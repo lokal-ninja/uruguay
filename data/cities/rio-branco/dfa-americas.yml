@@ -1,11 +1,11 @@
 id: 323832261
-type: way
+type: node
 latitude: -32.57424
 longitude: -53.37772
 postcode: ""
 city: Río Branco
-street: "General José Artigas"
-housenumber: 293
-phone: "+598 4675 6406"
-opening_hours: "Su-Fr 09:00-18:30; Sa 08:30-18:30"
-website: "http://www.dfauruguay.com/es/"
+street: General José Artigas
+housenumber: "293"
+phone: +598 4675 6406
+opening_hours: Su-Fr 09:00-18:30; Sa 08:30-18:30
+website: http://www.dfauruguay.com/es/

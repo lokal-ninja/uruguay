@@ -1,11 +1,11 @@
 id: 457983422
-type: way
+type: node
 latitude: -34.88051
 longitude: -56.0671
 postcode: ""
 city: Montevideo
-street: "Cooper"
-housenumber: 2099
-phone: "+598 2924 3125"
+street: Cooper
+housenumber: "2099"
+phone: +598 2924 3125
 opening_hours: ""
 website: ""

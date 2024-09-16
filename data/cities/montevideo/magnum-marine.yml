@@ -1,11 +1,11 @@
 id: 458330893
-type: way
+type: node
 latitude: -34.86712
 longitude: -56.17042
 postcode: ""
 city: Montevideo
-street: "Avenida Luis Alberto de Herrera"
-housenumber: 3468
+street: Avenida Luis Alberto de Herrera
+housenumber: "3468"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.mercuryuruguay.com.uy"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.mercuryuruguay.com.uy

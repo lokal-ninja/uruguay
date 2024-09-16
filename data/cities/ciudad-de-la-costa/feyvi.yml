@@ -1,11 +1,11 @@
 id: 457933371
-type: way
+type: node
 latitude: -34.84254
 longitude: -55.9953
 postcode: ""
 city: Ciudad de la Costa
-street: "Avenida Ingeniero Luis Giannattasio"
-housenumber: 1503
+street: Avenida Ingeniero Luis Giannattasio
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

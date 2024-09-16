@@ -1,11 +1,11 @@
 id: 458167242
-type: way
+type: node
 latitude: -34.87596
 longitude: -56.14323
 postcode: ""
 city: Montevideo
-street: "Avenida 8 de Octubre"
-housenumber: 3653
+street: Avenida 8 de Octubre
+housenumber: "3653"
 phone: ""
 opening_hours: ""
 website: ""

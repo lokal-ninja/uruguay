@@ -4,8 +4,8 @@ latitude: -34.89291
 longitude: -56.06916
 postcode: ""
 city: Montevideo
-street: "Ciudad de París"
-housenumber: 5874
+street: Ciudad de París
+housenumber: "5874"
 phone: ""
-opening_hours: "09:00-12:00; 18:00-20:00"
-website: "http://pmc.com.uy"
+opening_hours: 09:00-12:00; 18:00-20:00
+website: http://pmc.com.uy

@@ -1,11 +1,11 @@
 id: 458167148
-type: way
+type: node
 latitude: -34.90204
 longitude: -56.13841
 postcode: ""
 city: Montevideo
-street: "Avenida Luis Alberto de Herrera"
-housenumber: 1363
-phone: "2628 3224"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-12:30"
-website: "http://www.petinsa.com.uy/grip-car-center.php"
+street: Avenida Luis Alberto de Herrera
+housenumber: "1363"
+phone: 2628 3224
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-12:30
+website: http://www.petinsa.com.uy/grip-car-center.php

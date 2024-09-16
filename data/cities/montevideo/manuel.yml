@@ -1,11 +1,11 @@
 id: 457987497
-type: way
+type: node
 latitude: -34.86869
 longitude: -56.23947
 postcode: ""
 city: Montevideo
-street: "Avenida Carlos María Ramírez"
-housenumber: 1094
+street: Avenida Carlos María Ramírez
+housenumber: "1094"
 phone: ""
 opening_hours: ""
 website: ""

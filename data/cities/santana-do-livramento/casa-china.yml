@@ -1,11 +1,11 @@
 id: 700690400
-type: way
+type: node
 latitude: -30.89407
 longitude: -55.53533
-postcode: "97573-572"
+postcode: 97573-572
 city: Sant'Ana do Livramento
-street: "Rua dos Andradas"
-housenumber: 124
-phone: "+55 55 3242-3478"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-13:00,15:00-19:00"
+street: Rua dos Andradas
+housenumber: "124"
+phone: +55 55 3242-3478
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-13:00,15:00-19:00
 website: ""

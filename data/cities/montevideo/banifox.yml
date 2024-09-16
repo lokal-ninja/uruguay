@@ -4,8 +4,8 @@ latitude: -34.88371
 longitude: -56.17124
 postcode: ""
 city: Montevideo
-street: "Juan Paullier"
-housenumber: 2378
-phone: "+598 2209 1840; +598 2200 2610; +598 2201 2250; +598 2209 8616"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-19:00; Sa 09:00-13:00"
-website: "https://www.banifox.com/"
+street: Juan Paullier
+housenumber: "2378"
+phone: +598 2209 1840; +598 2200 2610; +598 2201 2250; +598 2209 8616
+opening_hours: Mo-Fr 09:30-13:00, 14:00-19:00; Sa 09:00-13:00
+website: https://www.banifox.com/

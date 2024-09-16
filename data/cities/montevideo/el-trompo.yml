@@ -1,11 +1,11 @@
 id: 457048816
-type: way
+type: node
 latitude: -34.82626
 longitude: -56.20196
 postcode: ""
 city: Montevideo
-street: "Bulevar Aparicio Saravia"
-housenumber: 4660
-phone: "+598 2359 8629; +598 2357 7146; +598 2355 2078"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:00-13:00; Su 08:30-13:00"
-website: "http://www.ferreteriaeltrompo.com.uy"
+street: Bulevar Aparicio Saravia
+housenumber: "4660"
+phone: +598 2359 8629; +598 2357 7146; +598 2355 2078
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:00-13:00; Su 08:30-13:00
+website: http://www.ferreteriaeltrompo.com.uy

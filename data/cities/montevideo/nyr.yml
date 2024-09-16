@@ -4,8 +4,8 @@ latitude: -34.92348
 longitude: -56.15755
 postcode: ""
 city: Montevideo
-street: "Francisco Solano García"
-housenumber: 2549
-phone: "+598 2711 0710"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-14:00"
-website: "https://www.nyr.com.uy/"
+street: Francisco Solano García
+housenumber: "2549"
+phone: +598 2711 0710
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-14:00
+website: https://www.nyr.com.uy/

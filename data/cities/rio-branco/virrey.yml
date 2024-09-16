@@ -1,11 +1,11 @@
 id: 437645830
-type: way
+type: node
 latitude: -32.57484
 longitude: -53.37797
 postcode: ""
 city: Río Branco
-street: "General José Artigas"
-housenumber: 315
-phone: "+598 4675 2480"
+street: General José Artigas
+housenumber: "315"
+phone: +598 4675 2480
 opening_hours: ""
-website: "https://freeshopriobranco.com/?sec=freeshops&free=virrey"
+website: https://freeshopriobranco.com/?sec=freeshops&free=virrey

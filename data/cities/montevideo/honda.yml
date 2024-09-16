@@ -1,11 +1,11 @@
 id: 456860993
-type: way
+type: node
 latitude: -34.87119
 longitude: -56.20749
 postcode: ""
 city: Montevideo
-street: "Uruguayana"
-housenumber: 
+street: Uruguayana
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

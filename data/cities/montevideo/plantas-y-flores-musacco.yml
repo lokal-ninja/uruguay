@@ -1,11 +1,11 @@
 id: 376372128
-type: way
+type: node
 latitude: -34.85013
 longitude: -56.061
 postcode: ""
 city: Montevideo
-street: "Camino Servando Gómez"
-housenumber: 3360
+street: Camino Servando Gómez
+housenumber: "3360"
 phone: ""
 opening_hours: ""
-website: "http://floresmusacco.com/"
+website: http://floresmusacco.com/

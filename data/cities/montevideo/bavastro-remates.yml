@@ -1,11 +1,11 @@
 id: 748716814
-type: way
+type: node
 latitude: -34.90749
 longitude: -56.20599
 postcode: "11000"
 city: Montevideo
-street: "Misiones"
-housenumber: 1366
-phone: "+598 2915 5801"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.bavastronline.com.uy/"
+street: Misiones
+housenumber: "1366"
+phone: +598 2915 5801
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.bavastronline.com.uy/

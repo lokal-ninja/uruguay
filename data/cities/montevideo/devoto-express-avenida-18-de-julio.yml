@@ -4,8 +4,8 @@ latitude: -34.89916
 longitude: -56.16844
 postcode: "11200"
 city: Montevideo
-street: "Avenida 18 de Julio"
-housenumber: 2160
-phone: "+598 2409 4362"
-opening_hours: "08:00-21:00"
-website: "https://devoto.com.uy"
+street: Avenida 18 de Julio
+housenumber: "2160"
+phone: +598 2409 4362
+opening_hours: 08:00-21:00
+website: https://devoto.com.uy

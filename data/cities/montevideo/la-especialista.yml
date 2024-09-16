@@ -1,11 +1,11 @@
 id: 455168203
-type: way
+type: node
 latitude: -34.87699
 longitude: -56.17979
 postcode: ""
 city: Montevideo
-street: "Avenida General Flores"
-housenumber: 2768
+street: Avenida General Flores
+housenumber: "2768"
 phone: ""
 opening_hours: ""
 website: ""
