@@ -1,5 +1,5 @@
 ---
 title: "Alberto Gandulia"
-url: /montevideo/alberto-gandulia-eduardo-victor-haedo/
+url: /montevideo/alberto-gandulia-avenida-italia/
 shop: material de oficina
 ---
