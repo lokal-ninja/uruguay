@@ -1,6 +1,6 @@
 ---
 title: Tacuarembó
 url: /tacuarembo/
-latitude: -31.716
+latitude: -31.714
 longitude: -55.982
 ---
