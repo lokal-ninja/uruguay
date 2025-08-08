@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /santa-teresa/almacen/
-shop: general
+shop: comodidad
 ---

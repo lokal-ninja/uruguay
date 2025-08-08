@@ -1,6 +1,6 @@
 ---
 title: Montevideo
 url: /montevideo/
-latitude: -34.879
-longitude: -56.101
+latitude: -34.903
+longitude: -56.183
 ---

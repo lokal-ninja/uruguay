@@ -1,5 +1,5 @@
 ---
-title: "Provisión Suarez"
+title: "Provisión Suárez"
 url: /rivera/provision-suarez/
-shop: general
+shop: comodidad
 ---
