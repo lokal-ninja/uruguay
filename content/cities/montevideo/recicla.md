@@ -1,5 +1,5 @@
 ---
-title: "recicla"
+title: "Recicla"
 url: /montevideo/recicla/
 shop: ropa
 ---
