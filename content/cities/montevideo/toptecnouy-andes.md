@@ -1,5 +1,5 @@
 ---
 title: "TopTecnoUY"
-url: /montevideo/toptecnouy-avenida-18-de-julio/
+url: /montevideo/toptecnouy-andes/
 shop: teléfono móvil
 ---
