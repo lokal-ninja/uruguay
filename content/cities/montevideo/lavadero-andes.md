@@ -1,5 +1,5 @@
 ---
 title: "Lavadero"
-url: /montevideo/lavadero-bulevar-espana/
+url: /montevideo/lavadero-andes/
 shop: lavandería
 ---
